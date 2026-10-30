@@ -1,0 +1,11 @@
+{
+  "path": "it-57",
+  "code": "IT-57",
+  "name": "Marche",
+  "level": "region",
+  "parent": "it",
+  "repo": "https://github.com/lexifina/italy-marche-law",
+  "build": "built: statute and regional laws (449 acts, 449 versions) from the Consiglio regionale delle Marche's law database (current text only)",
+  "language": "it",
+  "sources": 1
+}
