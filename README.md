@@ -8,7 +8,7 @@ The text is in Italian, exactly as the source prints it.
 
 ## What this repository holds
 
-599 acts with 599 versions so far: the Statute (Statuto regionale) first, then the regional laws in force, added in parts of about fifty. Regulations and the amending statutory laws are not included.
+699 acts with 699 versions so far: the Statute (Statuto regionale) first, then the regional laws in force, added in parts of about fifty. Regulations and the amending statutory laws are not included.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -611,6 +611,106 @@ The text is in Italian, exactly as the source prints it.
 | `lr-2008-1/` | L.R. 29 gennaio 2008, n. 1: Modifiche alla legge regionale 16 dicembre 2005, n. 36 "Riordino del sistema regionale delle politiche abitative", alla legge region | 1 | oldest version available: 30 October 2026 |
 | `lr-2008-2/` | L.R. 5 febbraio 2008, n. 2: Modifiche alla Legge regionale 27 luglio 1998, n. 22: "Diritti della partoriente, del nuovo nato e del bambino spedalizzato" | 1 | oldest version available: 30 October 2026 |
 | `lr-2008-4/` | L.R. 26 febbraio 2008, n. 4: Trasferimento ai Comuni di alloggi di edilizia sovvenzionata realizzati ai sensi dell'articolo 7 della legge 30 marzo 1998, n. 61: | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-5/` | L.R. 26 febbraio 2008, n. 5: Riordino delle istituzioni pubbliche di assistenza e beneficenza (IPAB) e disciplina delle Aziende pubbliche di servizi alla person | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-6/` | L.R. 29 aprile 2008, n. 6: Proroga delle funzioni del Garante per l'infanzia e l'adolescenza | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-7/` | L.R. 29 aprile 2008, n. 7: Modifiche ed integrazioni alla legge regionale 10 agosto 1988, n. 34 "Finanziamento delle attività dei gruppi consiliari" | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-8/` | L.R. 29 aprile 2008, n. 8: Interventi di sostegno e promozione del commercio equo e solidale | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-10/` | L.R. 27 maggio 2008, n. 10: Modifica della legge regionale 2 agosto 1984, n. 20 "Disciplina delle indennità spettanti agli amministratori degli enti pubblici op | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-11/` | L.R. 27 maggio 2008, n. 11: Interpretazione autentica dell'articolo 2 della legge regionale 29 ottobre 2004, n. 23 "Norme sulla sanatoria degli abusi edilizi" | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-12/` | L.R. 27 maggio 2008, n. 12: Modifiche alla legge regionale 27 dicembre 2007, n. 19 "Disposizioni per la formazione del bilancio annuale e pluriennale della Regi | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-13/` | L.R. 10 giugno 2008, n. 13: Gestione del trasporto sanitario. Modificazioni ed integrazioni alla legge regionale 30 ottobre 1998, n. 36 "Sistema di emergenza sa | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-14/` | L.R. 17 giugno 2008, n. 14: Norme per l'edilizia sostenibile | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-15/` | L.R. 26 giugno 2008, n. 15: Disciplina del Consiglio regionale dell'economia e del lavoro (CREL) | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-17/` | L.R. 26 giugno 2008, n. 17: Adesione della Regione ad enti, fondazioni, associazioni, comitati ed altri organismi | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-18/` | L.R. 1 luglio 2008, n. 18: Norme in materia di Comunità montane e di esercizio associato di funzioni e servizi comunali | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-19/` | L.R. 15 luglio 2008, n. 19: Norme relative all'impiego dei fondi assegnati alla Regione ai sensi dell'articolo 2, comma 107, lettera e), della legge 24 dicembre | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-20/` | L.R. 15 luglio 2008, n. 20: Modifiche alla legge regionale 20 gennaio 1997, n. 15 "Disciplina del tributo speciale per il deposito in discarica dei rifiuti soli | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-21/` | L.R. 15 luglio 2008, n. 21: Modifiche alla legge regionale 26 giugno 2008, n. 15 "Disciplina del Consiglio regionale dell'economia e del lavoro (CREL)" | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-22/` | L.R. 15 luglio 2008, n. 22: Modifica all'articolo 6, comma 4, della legge regionale 10 agosto 1988, n. 34 "Finanziamento dell'attività dei gruppi consiliari" | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-23/` | L.R. 28 luglio 2008, n. 23: Garante regionale dei diritti della persona | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-24/` | L.R. 29 luglio 2008, n. 24: Rendiconto generale dell'Amministrazione per l'anno 2007 | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-25/` | L.R. 29 luglio 2008, n. 25: Assestamento del bilancio 2008 | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-26/` | L.R. 4 agosto 2008, n. 26: Modifiche alla legge regionale 30 giugno 2003, n. 14 "Riorganizzazione della struttura amministrativa del Consiglio regionale" | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-27/` | L.R. 4 agosto 2008, n. 27: Modifiche alla legge regionale 15 ottobre 2001, n. 20 "Norme in materia di organizzazione e di personale della Regione", alla legge r | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-28/` | L.R. 13 ottobre 2008, n. 28: Sistema regionale integrato degli interventi a favore dei soggetti adulti e minorenni sottoposti a provvedimenti dell'Autorità giud | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-30/` | L.R. 30 ottobre 2008, n. 30: Disciplina delle attività regionali in materia di commercio estero, promozione economica ed internazionalizzazione delle imprese e | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-31/` | L.R. 11 novembre 2008, n. 31: Interventi per la valorizzazione della funzione sociale ed educativa svolta dagli oratori e dagli enti religiosi che svolgono atti | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-32/` | L.R. 11 novembre 2008, n. 32: Interventi contro la violenza sulle donne | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-33/` | L.R. 18 novembre 2008, n. 33: Norme in materia di costi per la prevenzione degli infortuni e la tutela della salute nei cantieri temporanei o mobili | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-35/` | L.R. 4 dicembre 2008, n. 35: Riordino del Consorzio di sviluppo industriale delle Valli del Tronto, dell'Aso e del Tesino | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-36/` | L.R. 16 dicembre 2008, n. 36: Legge comunitaria regionale 2008 | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-37/` | L.R. 24 dicembre 2008, n. 37: Disposizioni per la formazione del bilancio annuale 2009 e pluriennale 2009/2011 della Regione (Legge finanziaria 2009) | 1 | oldest version available: 30 October 2026 |
+| `lr-2008-38/` | L.R. 24 dicembre 2008, n. 38: Bilancio di previsione per l'anno 2009 ed adozione del Bilancio pluriennale per il triennio 2009/2011 | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-2/` | L.R. 2 marzo 2009, n. 2: Modifiche agli articoli 9 e 10 della legge regionale 24 dicembre 2008, n. 37 "Legge finanziaria 2009" | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-3/` | L.R. 2 marzo 2009, n. 3: Integrazione alla legge regionale 11 luglio 2006, n. 9 "Testo unico delle norme regionali in materia di turismo" | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-5/` | L.R. 17 marzo 2009, n. 5: Partecipazione della Regione alla Rete europea degli enti locali e regionali per l'attuazione della convenzione europea del paesaggio | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-6/` | L.R. 17 marzo 2009, n. 6: Attività della società di gestione dell'aeroporto delle Marche. Legge regionale 24 marzo 1986, n. 6 | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-7/` | L.R. 31 marzo 2009, n. 7: Sostegno del cinema e dell'audiovisivo | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-8/` | L.R. 3 aprile 2009, n. 8: Ulteriori modifiche all'articolo 9 della legge regionale 24 dicembre 2008, n. 37 "Legge finanziaria 2009" | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-9/` | L.R. 3 aprile 2009, n. 9: Modifiche alle leggi regionali 17 maggio 1999, n. 10, 16 dicembre 2005, n. 36 e 29 gennaio 2008, n. 1 in materia di riordino del siste | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-11/` | L.R. 3 aprile 2009, n. 11: Disciplina degli interventi regionali in materia di spettacolo | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-12/` | L.R. 26 maggio 2009, n. 12: Sanzioni in materia di trasporto pubblico locale | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-13/` | L.R. 26 maggio 2009, n. 13: Disposizioni a sostegno dei diritti e dell'integrazione dei cittadini stranieri immigrati | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-15/` | L.R. 7 luglio 2009, n. 15: Norme in materia di delocalizzazioni e incentivi alle imprese | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-16/` | L.R. 7 luglio 2009, n. 16: Norme a sostegno del consumo dei prodotti agricoli di origine regionale | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-17/` | L.R. 28 luglio 2009, n. 17: Rendiconto generale dell'Amministrazione per l'anno 2008 | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-18/` | L.R. 28 luglio 2009, n. 18: Assestamento del bilancio 2009 | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-19/` | L.R. 4 agosto 2009, n. 19: Riconoscimento delle associazioni dei marchigiani residenti in altre regioni d'Italia | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-20/` | L.R. 4 agosto 2009, n. 20: Modifiche alla legge regionale 1° luglio 2008, n. 18 "Norme in materia di Comunità montane e di esercizio associato di funzioni e ser | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-21/` | L.R. 22 settembre 2009, n. 21: Istituzione dell'Azienda ospedaliera "Ospedali Riuniti Marche Nord" | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-23/` | L.R. 12 ottobre 2009, n. 23: Modifica alla legge regionale 2 settembre 1997, n. 60 "Istituzione dell'Agenzia regionale per la protezione ambientale delle Marche | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-24/` | L.R. 12 ottobre 2009, n. 24: Disciplina regionale in materia di gestione integrata dei rifiuti e bonifica dei siti inquinati | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-25/` | L.R. 26 ottobre 2009, n. 25: Misure di sostegno alla trasmissione d'impresa in favore di lavoratori riuniti in cooperativa per finalità di salvaguardia occupazi | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-26/` | L.R. 2 novembre 2009, n. 26: Norme per la valorizzazione degli archivi storici dei partiti politici, dei movimenti politici, di personalità politiche e dei sind | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-28/` | L.R. 30 novembre 2009, n. 28: Modifiche alla legge regionale 26 maggio 2009, n. 13 "Disposizioni a sostegno dei diritti e dell'integrazione dei cittadini strani | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-30/` | L.R. 7 dicembre 2009, n. 30: Nuove norme in materia di attività estrattive e modifiche ed integrazioni alla legge regionale 1° dicembre 1997, n. 71 "Norme per l | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-31/` | L.R. 22 dicembre 2009, n. 31: Disposizioni per la formazione del bilancio annuale 2010 e pluriennale 2010/2012 della Regione (Legge finanziaria 2010) | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-32/` | L.R. 22 dicembre 2009, n. 32: Bilancio di previsione per l'anno 2010 ed adozione del bilancio pluriennale per il triennio 2010/2012 | 1 | oldest version available: 30 October 2026 |
+| `lr-2009-33/` | L.R. 22 dicembre 2009, n. 33: Modifiche alle leggi regionali 15 ottobre 2001, n. 20 "Norme in materia di organizzazione e di personale della Regione", 10 agosto | 1 | oldest version available: 30 October 2026 |
+| `lr-2010-2/` | L.R. 18 gennaio 2010, n. 2: Istituzione della rete escursionistica della Regione Marche | 1 | oldest version available: 30 October 2026 |
+| `lr-2010-3/` | L.R. 18 gennaio 2010, n. 3: Modifica alla legge regionale 9 giugno 2006, n. 5 "Disciplina delle derivazioni di acqua pubblica e delle occupazioni del demanio id | 1 | oldest version available: 30 October 2026 |
+| `lr-2010-4/` | L.R. 9 febbraio 2010, n. 4: Norme in materia di beni e attività culturali | 1 | oldest version available: 30 October 2026 |
+| `lr-2010-5/` | L.R. 9 febbraio 2010, n. 5: Valorizzazione dei luoghi della memoria storica risorgimentale relativi alla battaglia di Tolentino e Castelfidardo e divulgazione d | 1 | oldest version available: 30 October 2026 |
+| `lr-2010-7/` | L.R. 11 febbraio 2010, n. 7: Norme per l'attuazione delle funzioni amministrative in materia di demanio marittimo | 1 | oldest version available: 30 October 2026 |
+| `lr-2010-8/` | L.R. 11 febbraio 2010, n. 8: Disposizioni contro le discriminazioni determinate dall'orientamento sessuale o dall'identità di genere | 1 | oldest version available: 30 October 2026 |
+| `lr-2010-10/` | L.R. 27 luglio 2010, n. 10: Modifica alla legge regionale 10 agosto 1998, n. 30 "Interventi a favore della famiglia" e disposizioni riguardanti la trasformazion | 1 | oldest version available: 30 October 2026 |
+| `lr-2010-11/` | L.R. 3 agosto 2010, n. 11: Misure urgenti in materia di contenimento della spesa | 1 | oldest version available: 30 October 2026 |
+| `lr-2010-12/` | L.R. 4 agosto 2010, n. 12: Modifica alla legge regionale 14 aprile 2004, n. 7 "Disciplina della procedura di valutazione di impatto ambientale" | 1 | oldest version available: 30 October 2026 |
+| `lr-2010-13/` | L.R. 11 ottobre 2010, n. 13: Modifica alla legge regionale 18 aprile 1986, n. 9 "Commissione regionale per le pari opportunità tra uomo e donna" | 1 | oldest version available: 30 October 2026 |
+| `lr-2010-14/` | L.R. 25 ottobre 2010, n. 14: Soppressione dell'Ente regionale per le manifestazioni fieristiche (ERF) | 1 | oldest version available: 30 October 2026 |
+| `lr-2010-15/` | L.R. 15 novembre 2010, n. 15: Rendiconto generale dell'Amministrazione per l'anno 2009 | 1 | oldest version available: 30 October 2026 |
+| `lr-2010-16/` | L.R. 15 novembre 2010, n. 16: Assestamento del bilancio 2010 | 1 | oldest version available: 30 October 2026 |
+| `lr-2010-17/` | L.R. 22 novembre 2010, n. 17: Modifiche alla legge regionale 20 giugno 2003, n. 13 "Riorganizzazione del Servizio sanitario regionale" | 1 | oldest version available: 30 October 2026 |
+| `lr-2010-18/` | L.R. 6 dicembre 2010, n. 18: Modifiche alla Legge regionale 18 gennaio 2010, n. 2 "Istituzione della rete escursionistica della Regione Marche" | 1 | oldest version available: 30 October 2026 |
+| `lr-2010-20/` | L.R. 28 dicembre 2010, n. 20: Disposizioni per la formazione del Bilancio annuale 2011 e pluriennale 2011/2013 della Regione (Legge Finanziaria 2011) | 1 | oldest version available: 30 October 2026 |
+| `lr-2010-21/` | L.R. 28 dicembre 2010, n. 21: Bilancio di previsione per l'anno 2011 ed adozione del bilancio pluriennale per il triennio 2011/2013 | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-3/` | L.R. 10 febbraio 2011, n. 3: Modifica alla Legge regionale 17 gennaio 2011, n. 1 "Proroga degli Organi degli ERSU" | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-4/` | L.R. 4 aprile 2011, n. 4: Criteri di premialità connessi alla tutela della salute e della sicurezza nei luoghi di lavoro nelle procedure di aggiudicazione di la | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-5/` | L.R. 4 aprile 2011, n. 5: Interventi regionali per il sostegno e la promozione dei locali storici | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-6/` | L.R. 11 aprile 2011, n. 6: Criteri gestione del trasporto sanitario modifiche ed integrazioni alla legge regionale 30 ottobre 1998, n. 36: "Sistema di emergenza | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-7/` | L.R. 29 aprile 2011, n. 7: Attuazione della Direttiva 2006/123/CE sui servizi nel mercato interno e altre disposizioni per l'applicazione di norme dell'Unione E | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-9/` | L.R. 9 maggio 2011, n. 9: Modifiche alle Leggi regionali: 14 aprile 2004, n. 7 "Disciplina della procedura di valutazione di impatto ambientale", 12 ottobre 200 | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-10/` | L.R. 9 maggio 2011, n. 10: Norme sulle sponsorizzazioni, sui patrocini e compartecipazioni dell'Assemblea legislativa regionale | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-11/` | L.R. 24 maggio 2011, n. 11: Disposizioni per l'ottimizzazione dell'attività amministrativa e il contenimento della spesa della Regione e degli Enti del Servizio | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-12/` | L.R. 17 giugno 2011, n. 12: Riordino degli enti regionali per l'abitazione pubblica (ERAP) | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-13/` | L.R. 6 luglio 2011, n. 13: Modifiche alle leggi regionali: 1° giugno 1999, n. 17 "Costituzione società regionale di sviluppo", 2 settembre 1997, n. 60 "Istituzi | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-14/` | L.R. 15 luglio 2011, n. 14: Proroga della scadenza del Comitato Regionale per le comunicazioni | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-15/` | L.R. 18 luglio 2011, n. 15: Modifiche alla Legge Regionale 5 gennaio 1995, n. 7 "Norme per la protezione della fauna selvatica e per la tutela dell'equilibrio a | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-16/` | L.R. 1 agosto 2011, n. 16: Modifica alla Legge regionale 13 ottobre 2008, n. 28: "Sistema regionale integrato degli interventi a favore dei soggetti adulti e mi | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-17/` | L.R. 1 agosto 2011, n. 17: Ulteriori modifiche della Legge Regionale 20 giugno 2003, n. 13: "Riorganizzazione del Servizio Sanitario Regionale", della Legge reg | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-18/` | L.R. 25 ottobre 2011, n. 18: Attribuzione delle funzioni in materia di servizio di gestione integrata dei rifiuti urbani e modifiche alla legge regionale 12 ott | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-19/` | L.R. 31 ottobre 2011, n. 19: Rendiconto generale della Regione per l'anno 2010 | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-20/` | L.R. 31 ottobre 2011, n. 20: Assestamento del Bilancio 2011 | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-21/` | L.R. 14 novembre 2011, n. 21: Disposizioni regionali in materia di multifunzionalità dell'azienda agricola e diversificazione in agricoltura | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-23/` | L.R. 23 novembre 2011, n. 23: Norme urgenti in materia di passaggio al digitale terrestre | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-24/` | L.R. 5 dicembre 2011, n. 24: Norme in materia di politiche giovanili | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-25/` | L.R. 5 dicembre 2011, n. 25: Disciplina dell'attività di tintolavanderia | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-27/` | L.R. 23 dicembre 2011, n. 27: Modifiche alla Legge regionale 13 marzo 1995, N. 23: "Disposizioni in materia di trattamento indennitario dei Consiglieri Regional | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-28/` | L.R. 28 dicembre 2011, n. 28: Disposizioni per la formazione del bilancio annuale 2012 e pluriennale 2012/2014 della Regione (Legge Finanziaria 2012) | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-29/` | L.R. 28 dicembre 2011, n. 29: Bilancio di previsione per l'anno 2012 ed adozione del Bilancio Pluriennale per il triennio 2012/2014 | 1 | oldest version available: 30 October 2026 |
+| `lr-2011-30/` | L.R. 28 dicembre 2011, n. 30: Disposizioni in materia di risorse idriche e di servizio idrico integrato | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-1/` | L.R. 19 gennaio 2012, n. 1: Modifiche alla Legge regionale 31 ottobre 2011, n. 20 "Assestamento di Bilancio 2011" | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-2/` | L.R. 20 marzo 2012, n. 2: Abrogazione dell'articolo 10 della Legge regionale 31 ottobre 2011, n. 20: "Assestamento di bilancio 2011" e modifica dell'articolo 27 | 1 | oldest version available: 30 October 2026 |
 
 ## Source
 

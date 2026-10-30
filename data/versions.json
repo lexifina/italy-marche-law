@@ -8386,6 +8386,1406 @@
      "sha256": "002037325f140ce5ac58bd84b218d1dce74da18e9d7088ede394386ce6f0ad4d"
     }
    ]
+  },
+  {
+   "slug": "lr-2008-5",
+   "short": "L.R. 5/2008",
+   "title": "L.R. 26 febbraio 2008, n. 5: Riordino delle istituzioni pubbliche di assistenza e beneficenza (IPAB) e disciplina delle Aziende pubbliche di servizi alla persona",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1558",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 25,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1558",
+     "sha256": "f1a76b64de446ea208c27d3125a8b282db2e46233e0a3c2b4d7bb5c448544392"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-6",
+   "short": "L.R. 6/2008",
+   "title": "L.R. 29 aprile 2008, n. 6: Proroga delle funzioni del Garante per l'infanzia e l'adolescenza",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1559",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 2,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1559",
+     "sha256": "4f1f8f116ccf6a19b690f809f7551361a02d6c0557f8fbe95c9a0c6a65db050c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-7",
+   "short": "L.R. 7/2008",
+   "title": "L.R. 29 aprile 2008, n. 7: Modifiche ed integrazioni alla legge regionale 10 agosto 1988, n. 34 \"Finanziamento delle attività dei gruppi consiliari\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1560",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 5,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1560",
+     "sha256": "f05100037e056e3f2a774e833d05bd84abbb5e58a651b3c19c02bc63006d1dbd"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-8",
+   "short": "L.R. 8/2008",
+   "title": "L.R. 29 aprile 2008, n. 8: Interventi di sostegno e promozione del commercio equo e solidale",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1561",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 11,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1561",
+     "sha256": "fc324004a4b1d8ffca27e1633773991b6e57ccd3840cff953b688ef16085fd3d"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-10",
+   "short": "L.R. 10/2008",
+   "title": "L.R. 27 maggio 2008, n. 10: Modifica della legge regionale 2 agosto 1984, n. 20 \"Disciplina delle indennità spettanti agli amministratori degli enti pubblici operanti in materie di competenza regionale e ai componenti di commissioni, collegi e comitati istituiti dalla Regione o operanti nell'ambito dell'amministrazione regionale\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1563",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1563",
+     "sha256": "5a5a4a0bdc83c78196d2f06217704bf6ec57effdf8779a01e895d5cdd18bc29c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-11",
+   "short": "L.R. 11/2008",
+   "title": "L.R. 27 maggio 2008, n. 11: Interpretazione autentica dell'articolo 2 della legge regionale 29 ottobre 2004, n. 23 \"Norme sulla sanatoria degli abusi edilizi\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1564",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1564",
+     "sha256": "5282aecb2ded7c30f9886380ff75bf6c6ccde28e69a08fa6eaac666860e07ed2"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-12",
+   "short": "L.R. 12/2008",
+   "title": "L.R. 27 maggio 2008, n. 12: Modifiche alla legge regionale 27 dicembre 2007, n. 19 \"Disposizioni per la formazione del bilancio annuale e pluriennale della Regione (legge finanziaria 2008)\" e alla legge regionale 23 agosto 1982, n. 32 \"Disciplina della ricerca, coltivazione ed utilizzazione delle acque minerali e termali nella regione Marche\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1565",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 5,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1565",
+     "sha256": "8f8d157e43e03b08fe38e6e3878c0acd77412720ee68f5648abb822c40687197"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-13",
+   "short": "L.R. 13/2008",
+   "title": "L.R. 10 giugno 2008, n. 13: Gestione del trasporto sanitario. Modificazioni ed integrazioni alla legge regionale 30 ottobre 1998, n. 36 \"Sistema di emergenza sanitaria\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1566",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 25,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1566",
+     "sha256": "011e47f16559690482a8d141b71bb9b2de3b1d8121973cfd91b621cb9b822ec5"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-14",
+   "short": "L.R. 14/2008",
+   "title": "L.R. 17 giugno 2008, n. 14: Norme per l'edilizia sostenibile",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1567",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 15,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1567",
+     "sha256": "8cf169ab4454c892b40d68b9f827dc7ff2b435a283b925219b6adcee51334088"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-15",
+   "short": "L.R. 15/2008",
+   "title": "L.R. 26 giugno 2008, n. 15: Disciplina del Consiglio regionale dell'economia e del lavoro (CREL)",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1568",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 9,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1568",
+     "sha256": "a5e2d084fd4d135b2dc320428a46562ebc9ee910b46e16ca36f37b10dc34f037"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-17",
+   "short": "L.R. 17/2008",
+   "title": "L.R. 26 giugno 2008, n. 17: Adesione della Regione ad enti, fondazioni, associazioni, comitati ed altri organismi",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1570",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 6,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1570",
+     "sha256": "2f7d48bb1698743f3784af81ebc3a75a8fb630d725f1f4cf2d4605148beb9685"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-18",
+   "short": "L.R. 18/2008",
+   "title": "L.R. 1 luglio 2008, n. 18: Norme in materia di Comunità montane e di esercizio associato di funzioni e servizi comunali",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1571",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 26,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1571",
+     "sha256": "109cf341dee7e058d70ba33fc38196774274230d9668b17606798de44988f511"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-19",
+   "short": "L.R. 19/2008",
+   "title": "L.R. 15 luglio 2008, n. 19: Norme relative all'impiego dei fondi assegnati alla Regione ai sensi dell'articolo 2, comma 107, lettera e), della legge 24 dicembre 2007, n. 244 (legge finanziaria 2008)",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1572",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1572",
+     "sha256": "01d5af7ca4a69edacfa11d01005625fe0d5c7b451a60d8298126a8091237fa9d"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-20",
+   "short": "L.R. 20/2008",
+   "title": "L.R. 15 luglio 2008, n. 20: Modifiche alla legge regionale 20 gennaio 1997, n. 15 \"Disciplina del tributo speciale per il deposito in discarica dei rifiuti solidi\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1573",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 5,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1573",
+     "sha256": "a7ed27b50e8919c79ac15d9773f1f4098f9da1b8e620c231145eeb18aa615b1c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-21",
+   "short": "L.R. 21/2008",
+   "title": "L.R. 15 luglio 2008, n. 21: Modifiche alla legge regionale 26 giugno 2008, n. 15 \"Disciplina del Consiglio regionale dell'economia e del lavoro (CREL)\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1574",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 2,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1574",
+     "sha256": "c205f033391d6da12c01a60d8c0cde0dc6d740067245ce73ad5eef218a8ad481"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-22",
+   "short": "L.R. 22/2008",
+   "title": "L.R. 15 luglio 2008, n. 22: Modifica all'articolo 6, comma 4, della legge regionale 10 agosto 1988, n. 34 \"Finanziamento dell'attività dei gruppi consiliari\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1575",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1575",
+     "sha256": "b903a9a5152e3f57bb643f5f497c7d2faf4a2fef48b0f90fd0687699bb3c0117"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-23",
+   "short": "L.R. 23/2008",
+   "title": "L.R. 28 luglio 2008, n. 23: Garante regionale dei diritti della persona",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1576",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 19,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1576",
+     "sha256": "25761901ec3cb7e2410ea71ebcfe4087559cb86bc71056389a0fbbbd216dbf4c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-24",
+   "short": "L.R. 24/2008",
+   "title": "L.R. 29 luglio 2008, n. 24: Rendiconto generale dell'Amministrazione per l'anno 2007",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1581",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 14,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1581",
+     "sha256": "047116895b1675d9cd71d3a0da74f3dabaeb4da37ad5ce16b5cc4da642307332"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-25",
+   "short": "L.R. 25/2008",
+   "title": "L.R. 29 luglio 2008, n. 25: Assestamento del bilancio 2008",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1580",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 40,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1580",
+     "sha256": "8bc91bfc5fb5783ce79703f2ef935b350c0eaa564800f2d3f0b12536bcd8b749"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-26",
+   "short": "L.R. 26/2008",
+   "title": "L.R. 4 agosto 2008, n. 26: Modifiche alla legge regionale 30 giugno 2003, n. 14 \"Riorganizzazione della struttura amministrativa del Consiglio regionale\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1577",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 2,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1577",
+     "sha256": "46ebf10cee02921dc9082c5ac9e5c5cc52e2291ee12d9494c6f74377b12c0bf1"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-27",
+   "short": "L.R. 27/2008",
+   "title": "L.R. 4 agosto 2008, n. 27: Modifiche alla legge regionale 15 ottobre 2001, n. 20 \"Norme in materia di organizzazione e di personale della Regione\", alla legge regionale 30 giugno 2003, n. 14 \"Riorganizzazione della struttura amministrativa del Consiglio regionale\" e alla legge regionale 10 agosto 1988, n. 34 \"Finanziamento delle attività dei gruppi consiliari\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1578",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 12,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1578",
+     "sha256": "e5ae7d84bed353073d82663f21cffaf2d523048b4bc7e1b848b4339ee5dfc4c6"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-28",
+   "short": "L.R. 28/2008",
+   "title": "L.R. 13 ottobre 2008, n. 28: Sistema regionale integrato degli interventi a favore dei soggetti adulti e minorenni sottoposti a provvedimenti dell'Autorità giudiziaria ed a favore degli ex detenuti",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1583",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 20,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1583",
+     "sha256": "851ddb6ce8bfb21650dab6597c51f0764a4b10d9f906a31a99a911075c021a7f"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-30",
+   "short": "L.R. 30/2008",
+   "title": "L.R. 30 ottobre 2008, n. 30: Disciplina delle attività regionali in materia di commercio estero, promozione economica ed internazionalizzazione delle imprese e del sistema territoriale",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1585",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 15,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1585",
+     "sha256": "663b8ba6799b81c930fbebee1add0e09ffac0ed417fc1e8c4c9382467f50101b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-31",
+   "short": "L.R. 31/2008",
+   "title": "L.R. 11 novembre 2008, n. 31: Interventi per la valorizzazione della funzione sociale ed educativa svolta dagli oratori e dagli enti religiosi che svolgono attività similari",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1586",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 8,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1586",
+     "sha256": "8186a1a609e9e2e949c922ec45da534c0ebd2b67b49671c7862a8b29407e3445"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-32",
+   "short": "L.R. 32/2008",
+   "title": "L.R. 11 novembre 2008, n. 32: Interventi contro la violenza sulle donne",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1587",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 16,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1587",
+     "sha256": "3b33167c49a052f623ab6c443c20d5a77c42c32944e32170244a8c7993b3d84b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-33",
+   "short": "L.R. 33/2008",
+   "title": "L.R. 18 novembre 2008, n. 33: Norme in materia di costi per la prevenzione degli infortuni e la tutela della salute nei cantieri temporanei o mobili",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1589",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 15,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1589",
+     "sha256": "cecf30b15f54c16b85811223e951489b2ef21264b47e2ef3eecde2ab0400ac2a"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-35",
+   "short": "L.R. 35/2008",
+   "title": "L.R. 4 dicembre 2008, n. 35: Riordino del Consorzio di sviluppo industriale delle Valli del Tronto, dell'Aso e del Tesino",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1591",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 6,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1591",
+     "sha256": "8a26a53a5bd6ac4170ff535ee7d3801edadae9c73804db5bce264ff132fcc777"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-36",
+   "short": "L.R. 36/2008",
+   "title": "L.R. 16 dicembre 2008, n. 36: Legge comunitaria regionale 2008",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1592",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 9,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1592",
+     "sha256": "5323bbb5055cd547e484014b012f65cf7cd2c429d931beb8e458bbd0714d110a"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-37",
+   "short": "L.R. 37/2008",
+   "title": "L.R. 24 dicembre 2008, n. 37: Disposizioni per la formazione del bilancio annuale 2009 e pluriennale 2009/2011 della Regione (Legge finanziaria 2009)",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1593",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 45,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1593",
+     "sha256": "c9b7f235d2ad9e5b323e3428a83ade8f16bd83584dba0d8bfd518bdd398be722"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2008-38",
+   "short": "L.R. 38/2008",
+   "title": "L.R. 24 dicembre 2008, n. 38: Bilancio di previsione per l'anno 2009 ed adozione del Bilancio pluriennale per il triennio 2009/2011",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1594",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 31,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1594",
+     "sha256": "1899ca10d8ca634be2e009c8bf255a5c70db4b06dcb67b71293c41f8dfe61a6a"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-2",
+   "short": "L.R. 2/2009",
+   "title": "L.R. 2 marzo 2009, n. 2: Modifiche agli articoli 9 e 10 della legge regionale 24 dicembre 2008, n. 37 \"Legge finanziaria 2009\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1602",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 3,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1602",
+     "sha256": "1cd99a516c65a6856a78ebce62a392b3f18385aad2373d7a70f9972331300f97"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-3",
+   "short": "L.R. 3/2009",
+   "title": "L.R. 2 marzo 2009, n. 3: Integrazione alla legge regionale 11 luglio 2006, n. 9 \"Testo unico delle norme regionali in materia di turismo\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1603",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1603",
+     "sha256": "40be43d1edaf8fd0353cbbc23b08dba4a09cfcc9cc0a1c6bceee1f4c95ad9297"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-5",
+   "short": "L.R. 5/2009",
+   "title": "L.R. 17 marzo 2009, n. 5: Partecipazione della Regione alla Rete europea degli enti locali e regionali per l'attuazione della convenzione europea del paesaggio (RECEP)",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1605",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 5,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1605",
+     "sha256": "858311ea9c707c8e8aaa821286bd50fff1acd04adb0824821a9acdb935854a3c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-6",
+   "short": "L.R. 6/2009",
+   "title": "L.R. 17 marzo 2009, n. 6: Attività della società di gestione dell'aeroporto delle Marche. Legge regionale 24 marzo 1986, n. 6",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1606",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1606",
+     "sha256": "46e91e2555569fff17307435fd07c52eaf28df993c358cc9f25caffc2209ed53"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-7",
+   "short": "L.R. 7/2009",
+   "title": "L.R. 31 marzo 2009, n. 7: Sostegno del cinema e dell'audiovisivo",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1607",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 9,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1607",
+     "sha256": "c308d14eafbd2024363a03d102e5d2519d6ad9a966fa90b556e319f5db6de7af"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-8",
+   "short": "L.R. 8/2009",
+   "title": "L.R. 3 aprile 2009, n. 8: Ulteriori modifiche all'articolo 9 della legge regionale 24 dicembre 2008, n. 37 \"Legge finanziaria 2009\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1608",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1608",
+     "sha256": "dc600f7a3e706ee728f38c47cde8eb42e4e420c775e26ab6b568f178e8c71e62"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-9",
+   "short": "L.R. 9/2009",
+   "title": "L.R. 3 aprile 2009, n. 9: Modifiche alle leggi regionali 17 maggio 1999, n. 10, 16 dicembre 2005, n. 36 e 29 gennaio 2008, n. 1 in materia di riordino del sistema regionale delle politiche abitative e delle relative funzioni amministrative",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1609",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 7,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1609",
+     "sha256": "57de005ccecde32016a218299d87cf8560c4647874df7b9675eb4eaef342d0dd"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-11",
+   "short": "L.R. 11/2009",
+   "title": "L.R. 3 aprile 2009, n. 11: Disciplina degli interventi regionali in materia di spettacolo",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1611",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 15,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1611",
+     "sha256": "959d77d79b9bda89382a14426fea9b4d6481b76d81c9f7bbca9466534c076ad7"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-12",
+   "short": "L.R. 12/2009",
+   "title": "L.R. 26 maggio 2009, n. 12: Sanzioni in materia di trasporto pubblico locale",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1612",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 12,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1612",
+     "sha256": "6039c18348af980beaf1de89ab0a4a6daae32a927ecd4cc6edfbd5a32082e3b1"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-13",
+   "short": "L.R. 13/2009",
+   "title": "L.R. 26 maggio 2009, n. 13: Disposizioni a sostegno dei diritti e dell'integrazione dei cittadini stranieri immigrati",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1613",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 22,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1613",
+     "sha256": "bcefef2c3966abc977a2b97325b5483158a12f772b2c4ea7115fda7814021632"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-15",
+   "short": "L.R. 15/2009",
+   "title": "L.R. 7 luglio 2009, n. 15: Norme in materia di delocalizzazioni e incentivi alle imprese",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1615",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 4,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1615",
+     "sha256": "b57b9a090610591b240ddaddf822d5276654df5516adb76c58970eacb8f19597"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-16",
+   "short": "L.R. 16/2009",
+   "title": "L.R. 7 luglio 2009, n. 16: Norme a sostegno del consumo dei prodotti agricoli di origine regionale",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1616",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 6,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1616",
+     "sha256": "01b77f1bc14ce16dcb66ed8a88fa498b291b97ce7fad972b440142dc4c1eb9f9"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-17",
+   "short": "L.R. 17/2009",
+   "title": "L.R. 28 luglio 2009, n. 17: Rendiconto generale dell'Amministrazione per l'anno 2008",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1618",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 14,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1618",
+     "sha256": "175a7a4235fb322437715295ee79d46c819d1b34c34295ce478d3bfe639aaf47"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-18",
+   "short": "L.R. 18/2009",
+   "title": "L.R. 28 luglio 2009, n. 18: Assestamento del bilancio 2009",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1619",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 49,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1619",
+     "sha256": "005aa536134f21121e0e488685b9e91bec5fc8f53a4cd4ca8126811ae784e449"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-19",
+   "short": "L.R. 19/2009",
+   "title": "L.R. 4 agosto 2009, n. 19: Riconoscimento delle associazioni dei marchigiani residenti in altre regioni d'Italia",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1620",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 4,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1620",
+     "sha256": "aa976d2a16a8f1c6251f6a830454f600dc911977dddb77f83dd954058b759d40"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-20",
+   "short": "L.R. 20/2009",
+   "title": "L.R. 4 agosto 2009, n. 20: Modifiche alla legge regionale 1° luglio 2008, n. 18 \"Norme in materia di Comunità montane e di esercizio associato di funzioni e servizi comunali\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1621",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 9,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1621",
+     "sha256": "3057e41b905ab7eb2be9cec06d15b80b25e3dff8c9653a05efd319f7265ed141"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-21",
+   "short": "L.R. 21/2009",
+   "title": "L.R. 22 settembre 2009, n. 21: Istituzione dell'Azienda ospedaliera \"Ospedali Riuniti Marche Nord\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1622",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 4,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1622",
+     "sha256": "ea1119d90cc2dfb3aa218cbea05267f38fd176093611e3e74e6d210a4be579ac"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-23",
+   "short": "L.R. 23/2009",
+   "title": "L.R. 12 ottobre 2009, n. 23: Modifica alla legge regionale 2 settembre 1997, n. 60 \"Istituzione dell'Agenzia regionale per la protezione ambientale delle Marche (ARPAM)\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1624",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1624",
+     "sha256": "57c36251a1c62a5bdcc215d35e414e122a8287422b19e833759574d22c7ed227"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-24",
+   "short": "L.R. 24/2009",
+   "title": "L.R. 12 ottobre 2009, n. 24: Disciplina regionale in materia di gestione integrata dei rifiuti e bonifica dei siti inquinati",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1625",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 21,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1625",
+     "sha256": "ed46443162ad68fca03a2a3448dc6c3947e74e948a18b244d2e634ad885d3d4d"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-25",
+   "short": "L.R. 25/2009",
+   "title": "L.R. 26 ottobre 2009, n. 25: Misure di sostegno alla trasmissione d'impresa in favore di lavoratori riuniti in cooperativa per finalità di salvaguardia occupazionale",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1627",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 4,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1627",
+     "sha256": "08431cb8c665b7217b275b044ed4b25d45a0922874190a124bc4e1c00c45b139"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-26",
+   "short": "L.R. 26/2009",
+   "title": "L.R. 2 novembre 2009, n. 26: Norme per la valorizzazione degli archivi storici dei partiti politici, dei movimenti politici, di personalità politiche e dei sindacati",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1628",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 4,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1628",
+     "sha256": "b109d1d2662f6e6ee02bf214c6754737dbc2f82d1883c4000bd7a4f6ea47ca1e"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-28",
+   "short": "L.R. 28/2009",
+   "title": "L.R. 30 novembre 2009, n. 28: Modifiche alla legge regionale 26 maggio 2009, n. 13 \"Disposizioni a sostegno dei diritti e dell'integrazione dei cittadini stranieri immigrati\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1630",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 2,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1630",
+     "sha256": "363d84727305bc3bd7295701d15d912f3de8dcfb6590cfa48c4b9d8490614748"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-30",
+   "short": "L.R. 30/2009",
+   "title": "L.R. 7 dicembre 2009, n. 30: Nuove norme in materia di attività estrattive e modifiche ed integrazioni alla legge regionale 1° dicembre 1997, n. 71 \"Norme per la disciplina delle attività estrattive\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1632",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 3,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1632",
+     "sha256": "324afc1d0e5bbcc40ae19ef48ad951a7344e6b3cbaedbe476a2c23f64c7b66a4"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-31",
+   "short": "L.R. 31/2009",
+   "title": "L.R. 22 dicembre 2009, n. 31: Disposizioni per la formazione del bilancio annuale 2010 e pluriennale 2010/2012 della Regione (Legge finanziaria 2010)",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1633",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 61,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1633",
+     "sha256": "7aab7c1d8bc0c7e2af90caef4e21828cd70b954e17d45a5c31ae24c143844038"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-32",
+   "short": "L.R. 32/2009",
+   "title": "L.R. 22 dicembre 2009, n. 32: Bilancio di previsione per l'anno 2010 ed adozione del bilancio pluriennale per il triennio 2010/2012",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1634",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 31,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1634",
+     "sha256": "d4a81a47908481c11253d896e48f6be56f32228f1e813770d3068fa836c719e9"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2009-33",
+   "short": "L.R. 33/2009",
+   "title": "L.R. 22 dicembre 2009, n. 33: Modifiche alle leggi regionali 15 ottobre 2001, n. 20 \"Norme in materia di organizzazione e di personale della Regione\", 10 agosto 1988, n. 34 \"Finanziamento delle attività dei gruppi consiliari\" e 30 giugno 2003, n. 14 \"Riorganizzazione della struttura amministrativa del Consiglio regionale\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1635",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 6,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1635",
+     "sha256": "65015bdd9bd467fc7c51122a3c9c8bc485bf2167e9a53fc5c0aaf66559e37320"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2010-2",
+   "short": "L.R. 2/2010",
+   "title": "L.R. 18 gennaio 2010, n. 2: Istituzione della rete escursionistica della Regione Marche",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1639",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 9,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1639",
+     "sha256": "5ca4f8c14ac0e64d5d9ef7a810b53157606f8dfbab5c44408a722945b0415364"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2010-3",
+   "short": "L.R. 3/2010",
+   "title": "L.R. 18 gennaio 2010, n. 3: Modifica alla legge regionale 9 giugno 2006, n. 5 \"Disciplina delle derivazioni di acqua pubblica e delle occupazioni del demanio idrico\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1640",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 3,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1640",
+     "sha256": "5d019a00935f1f72918c34d47013545039972d3f42514d780ba05b8e15c6b247"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2010-4",
+   "short": "L.R. 4/2010",
+   "title": "L.R. 9 febbraio 2010, n. 4: Norme in materia di beni e attività culturali",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1641",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 26,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1641",
+     "sha256": "8c3164cdcafcafec6f9369fe966e97b5539e37a77fc24955b6f63ea1050842ae"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2010-5",
+   "short": "L.R. 5/2010",
+   "title": "L.R. 9 febbraio 2010, n. 5: Valorizzazione dei luoghi della memoria storica risorgimentale relativi alla battaglia di Tolentino e Castelfidardo e divulgazione dei relativi fatti storici",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1642",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 5,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1642",
+     "sha256": "4072a77607f7e6d27fb67899a64bd8ded40f26282b0ce48adad13eb24332ecee"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2010-7",
+   "short": "L.R. 7/2010",
+   "title": "L.R. 11 febbraio 2010, n. 7: Norme per l'attuazione delle funzioni amministrative in materia di demanio marittimo",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1644",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 5,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1644",
+     "sha256": "ff3e8f20c10ba6243dbadb5465cc5fa2de714ac2932ae53780c4088c60b68990"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2010-8",
+   "short": "L.R. 8/2010",
+   "title": "L.R. 11 febbraio 2010, n. 8: Disposizioni contro le discriminazioni determinate dall'orientamento sessuale o dall'identità di genere",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1645",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 6,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1645",
+     "sha256": "129df5575809b197774a516446f46515b571df1d3253ea34214edca5eca684bd"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2010-10",
+   "short": "L.R. 10/2010",
+   "title": "L.R. 27 luglio 2010, n. 10: Modifica alla legge regionale 10 agosto 1998, n. 30 \"Interventi a favore della famiglia\" e disposizioni riguardanti la trasformazione delle istituzioni pubbliche di assistenza e beneficenza (IPAB)",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1648",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 3,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1648",
+     "sha256": "cfe56db13eac260b1f49c6c1e7183e70a0681574b73a3579beab5182756ed332"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2010-11",
+   "short": "L.R. 11/2010",
+   "title": "L.R. 3 agosto 2010, n. 11: Misure urgenti in materia di contenimento della spesa",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1649",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 9,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1649",
+     "sha256": "fbef2a3fae527aa5f8e07d1dca7dc56a805518ae2a6470b08c58493c2a7ae885"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2010-12",
+   "short": "L.R. 12/2010",
+   "title": "L.R. 4 agosto 2010, n. 12: Modifica alla legge regionale 14 aprile 2004, n. 7 \"Disciplina della procedura di valutazione di impatto ambientale\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1650",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 2,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1650",
+     "sha256": "c195ff5f2fbf6a6c1bed1e9bd57962e6ccefea7a63b045a6ce4d21c538f83d8b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2010-13",
+   "short": "L.R. 13/2010",
+   "title": "L.R. 11 ottobre 2010, n. 13: Modifica alla legge regionale 18 aprile 1986, n. 9 \"Commissione regionale per le pari opportunità tra uomo e donna\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1651",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 2,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1651",
+     "sha256": "a865d6bc243c5c021f365bfacfe777ed77c9ad61c298b2302461c2f3adbf5822"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2010-14",
+   "short": "L.R. 14/2010",
+   "title": "L.R. 25 ottobre 2010, n. 14: Soppressione dell'Ente regionale per le manifestazioni fieristiche (ERF)",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1652",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 6,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1652",
+     "sha256": "a854cfbd4bb95dfb1f329fbe88ba8e37fe8c8ba5da788e364af5961d80308189"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2010-15",
+   "short": "L.R. 15/2010",
+   "title": "L.R. 15 novembre 2010, n. 15: Rendiconto generale dell'Amministrazione per l'anno 2009",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1656",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 14,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1656",
+     "sha256": "ea5dcb791e263abaa89f5b117b7e27660ffc7466463336c7cbc96d3041f0e609"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2010-16",
+   "short": "L.R. 16/2010",
+   "title": "L.R. 15 novembre 2010, n. 16: Assestamento del bilancio 2010",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1653",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 48,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1653",
+     "sha256": "476c8f2d6e74a290a8069671bcdc4a94621f17ad19b62c725c3f5db1a6860847"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2010-17",
+   "short": "L.R. 17/2010",
+   "title": "L.R. 22 novembre 2010, n. 17: Modifiche alla legge regionale 20 giugno 2003, n. 13 \"Riorganizzazione del Servizio sanitario regionale\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1655",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 21,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1655",
+     "sha256": "0919633673c4be752559a959e7355af1155b2fd3111efc019dba20f0626075a4"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2010-18",
+   "short": "L.R. 18/2010",
+   "title": "L.R. 6 dicembre 2010, n. 18: Modifiche alla Legge regionale 18 gennaio 2010, n. 2 \"Istituzione della rete escursionistica della Regione Marche\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1657",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 6,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1657",
+     "sha256": "4b25164a41b95f8579e41b63cc03e08550a1de4e7096462beaed98787b0ce608"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2010-20",
+   "short": "L.R. 20/2010",
+   "title": "L.R. 28 dicembre 2010, n. 20: Disposizioni per la formazione del Bilancio annuale 2011 e pluriennale 2011/2013 della Regione (Legge Finanziaria 2011)",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1661",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 41,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1661",
+     "sha256": "12ad5786050e6ff7a03a910f21b73fb9addad63801b306e40d0d2aea802f84e0"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2010-21",
+   "short": "L.R. 21/2010",
+   "title": "L.R. 28 dicembre 2010, n. 21: Bilancio di previsione per l'anno 2011 ed adozione del bilancio pluriennale per il triennio 2011/2013",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1659",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 30,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1659",
+     "sha256": "4b8190be268c60cb5c2accd2355c235f2b66301d5a4216696f76b32a8922e70c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-3",
+   "short": "L.R. 3/2011",
+   "title": "L.R. 10 febbraio 2011, n. 3: Modifica alla Legge regionale 17 gennaio 2011, n. 1 \"Proroga degli Organi degli ERSU\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1669",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 2,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1669",
+     "sha256": "3aa79465c51775e9afe9414867928245e3a6e59f65d78b48911ae7cea8134b36"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-4",
+   "short": "L.R. 4/2011",
+   "title": "L.R. 4 aprile 2011, n. 4: Criteri di premialità connessi alla tutela della salute e della sicurezza nei luoghi di lavoro nelle procedure di aggiudicazione di lavori od opere pubblici di interesse regionale",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1672",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 3,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1672",
+     "sha256": "e890cf7d77b17dad40704d2d83b20aa581c133bd34a9e518fce4a96db098fc4c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-5",
+   "short": "L.R. 5/2011",
+   "title": "L.R. 4 aprile 2011, n. 5: Interventi regionali per il sostegno e la promozione dei locali storici",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1673",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 7,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1673",
+     "sha256": "9308258874750ac11d739de20f3b5b21cb27c189fe44fa1e525a55e7b83a4944"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-6",
+   "short": "L.R. 6/2011",
+   "title": "L.R. 11 aprile 2011, n. 6: Criteri gestione del trasporto sanitario modifiche ed integrazioni alla legge regionale 30 ottobre 1998, n. 36: \"Sistema di emergenza sanitaria\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1674",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 3,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1674",
+     "sha256": "a73f3f9b5bdac0865b3c16c801c579efefe77f29365807e7356e2240cf42138b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-7",
+   "short": "L.R. 7/2011",
+   "title": "L.R. 29 aprile 2011, n. 7: Attuazione della Direttiva 2006/123/CE sui servizi nel mercato interno e altre disposizioni per l'applicazione di norme dell'Unione Europea e per la semplificazione dell'azione amministrativa. Legge comunitaria regionale 2011",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1681",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 56,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1681",
+     "sha256": "93fd5c22b22b313253659f38e45fe1391c5a199d2df816e9131c0687740b5357"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-9",
+   "short": "L.R. 9/2011",
+   "title": "L.R. 9 maggio 2011, n. 9: Modifiche alle Leggi regionali: 14 aprile 2004, n. 7 \"Disciplina della procedura di valutazione di impatto ambientale\", 12 ottobre 2009, n. 24 \"Disciplina regionale in materia di gestione integrata dei rifiuti e bonifica dei siti inquinati\", 15 novembre 2010, n. 16 \"Assestamento del Bilancio 2010\", 28 dicembre 2010, n. 20 \"Legge finanziaria 2011\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1679",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 3,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1679",
+     "sha256": "d6b60787b436def70da58d0a7b48bf690656c447270f5ff847618766b1d8575c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-10",
+   "short": "L.R. 10/2011",
+   "title": "L.R. 9 maggio 2011, n. 10: Norme sulle sponsorizzazioni, sui patrocini e compartecipazioni dell'Assemblea legislativa regionale",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1680",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 7,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1680",
+     "sha256": "8593edfc180d49adc1fc9e86d6b71ae9753f743893a4ff52fc9c8cc0b1e63a2c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-11",
+   "short": "L.R. 11/2011",
+   "title": "L.R. 24 maggio 2011, n. 11: Disposizioni per l'ottimizzazione dell'attività amministrativa e il contenimento della spesa della Regione e degli Enti del Servizio Sanitario Regionale",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1683",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 11,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1683",
+     "sha256": "311ac217f5bcbc9ad295063f5e4bcddf057635abe3470a3bb6bc58673d513e7b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-12",
+   "short": "L.R. 12/2011",
+   "title": "L.R. 17 giugno 2011, n. 12: Riordino degli enti regionali per l'abitazione pubblica (ERAP)",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1684",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 7,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1684",
+     "sha256": "3d4b9e46a080a986949da46e04103e6463708f4ebd8ec5af73a3f78a394115c9"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-13",
+   "short": "L.R. 13/2011",
+   "title": "L.R. 6 luglio 2011, n. 13: Modifiche alle leggi regionali: 1° giugno 1999, n. 17 \"Costituzione società regionale di sviluppo\", 2 settembre 1997, n. 60 \"Istituzione dell'agenzia regionale per la protezione ambientale delle Marche (ARPAM)\", 29 aprile 2011, n. 7 \"Legge comunitaria regionale 2011\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1686",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 8,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1686",
+     "sha256": "facca449a44256ee4190f568226117538dab380f4e190915a97ee4d2c0882864"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-14",
+   "short": "L.R. 14/2011",
+   "title": "L.R. 15 luglio 2011, n. 14: Proroga della scadenza del Comitato Regionale per le comunicazioni",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1687",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 2,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1687",
+     "sha256": "28d46ae9fc00174d45e9949044f3825042a7e1722b629cf4702d167fa02d6250"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-15",
+   "short": "L.R. 15/2011",
+   "title": "L.R. 18 luglio 2011, n. 15: Modifiche alla Legge Regionale 5 gennaio 1995, n. 7 \"Norme per la protezione della fauna selvatica e per la tutela dell'equilibrio ambientale e disciplina dell'attività venatoria\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1688",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 35,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1688",
+     "sha256": "6df76fa9f73b30d18489454f05c74501e8e3747bdd51029161f9832fdd2d379d"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-16",
+   "short": "L.R. 16/2011",
+   "title": "L.R. 1 agosto 2011, n. 16: Modifica alla Legge regionale 13 ottobre 2008, n. 28: \"Sistema regionale integrato degli interventi a favore dei soggetti adulti e minorenni sottoposti a provvedimenti dell'Autorità Giudiziaria ed a favore degli ex detenuti\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1689",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 2,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1689",
+     "sha256": "5a50a7e16f3c701afe795325dfaaaab91efc38af7c329139db18b27f5703e74f"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-17",
+   "short": "L.R. 17/2011",
+   "title": "L.R. 1 agosto 2011, n. 17: Ulteriori modifiche della Legge Regionale 20 giugno 2003, n. 13: \"Riorganizzazione del Servizio Sanitario Regionale\", della Legge regionale 17 luglio 1996, n. 26: \"Riordino del Servizio Sanitario Regionale\" e modifica della legge regionale 22 novembre 2010, n. 17",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1690",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 31,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1690",
+     "sha256": "1cb621b871232751eceb21a5e1c05a17329dcc976a51971d20fcf78dc0b2da58"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-18",
+   "short": "L.R. 18/2011",
+   "title": "L.R. 25 ottobre 2011, n. 18: Attribuzione delle funzioni in materia di servizio di gestione integrata dei rifiuti urbani e modifiche alla legge regionale 12 ottobre 2009, n. 24: \"Disciplina regionale in materia di gestione integrata dei rifiuti e bonifica dei siti inquinati\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1693",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 8,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1693",
+     "sha256": "eb517a1cb96e9cf0b69bbbbd3a4577845ee4569653288701148b5aa54cda8caf"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-19",
+   "short": "L.R. 19/2011",
+   "title": "L.R. 31 ottobre 2011, n. 19: Rendiconto generale della Regione per l'anno 2010",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1695",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 14,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1695",
+     "sha256": "7b7ab2a0baad6bb7443d0717fb1eccfd2f6a3b2ad0d6a92540a53d64c329c8e3"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-20",
+   "short": "L.R. 20/2011",
+   "title": "L.R. 31 ottobre 2011, n. 20: Assestamento del Bilancio 2011",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1694",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 45,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1694",
+     "sha256": "25e18bee49101e344ba6cc1672fdb264aa7196e9170730902a55a9c739d04e09"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-21",
+   "short": "L.R. 21/2011",
+   "title": "L.R. 14 novembre 2011, n. 21: Disposizioni regionali in materia di multifunzionalità dell'azienda agricola e diversificazione in agricoltura",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1697",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 49,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1697",
+     "sha256": "0bb84c56cd4157cd733e9eb2b76b8a7df663ecce62411bc91895dfec5a8aaa2c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-23",
+   "short": "L.R. 23/2011",
+   "title": "L.R. 23 novembre 2011, n. 23: Norme urgenti in materia di passaggio al digitale terrestre",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1698",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 3,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1698",
+     "sha256": "ea234335dd202f809360b9abcf7b31981597d096cc8f6ba568c072f2feeb1fa1"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-24",
+   "short": "L.R. 24/2011",
+   "title": "L.R. 5 dicembre 2011, n. 24: Norme in materia di politiche giovanili",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1704",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 20,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1704",
+     "sha256": "c83e43f5125201805498ff64c13c5b4cab276d1beb6c1736e5b5fb3995219901"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-25",
+   "short": "L.R. 25/2011",
+   "title": "L.R. 5 dicembre 2011, n. 25: Disciplina dell'attività di tintolavanderia",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1703",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 9,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1703",
+     "sha256": "fed1eda09199029594005b4b0cf96cf4bc522478e74410bda1d4c7100ef6ac16"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-27",
+   "short": "L.R. 27/2011",
+   "title": "L.R. 23 dicembre 2011, n. 27: Modifiche alla Legge regionale 13 marzo 1995, N. 23: \"Disposizioni in materia di trattamento indennitario dei Consiglieri Regionali\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1702",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 8,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1702",
+     "sha256": "b005ec850d3386f6d520e1101f4ce27e7765c59b9eae9761bbb00a0368d57257"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-28",
+   "short": "L.R. 28/2011",
+   "title": "L.R. 28 dicembre 2011, n. 28: Disposizioni per la formazione del bilancio annuale 2012 e pluriennale 2012/2014 della Regione (Legge Finanziaria 2012)",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1706",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 35,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1706",
+     "sha256": "1f0ab4e65515c10da950b2d47f669a391467060f88317b7e946f02acc618f397"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-29",
+   "short": "L.R. 29/2011",
+   "title": "L.R. 28 dicembre 2011, n. 29: Bilancio di previsione per l'anno 2012 ed adozione del Bilancio Pluriennale per il triennio 2012/2014",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1707",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 30,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1707",
+     "sha256": "a4afca3492bceb181e0143e24b3b641eb67db879e8c412b25924125c9b1e7f1a"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2011-30",
+   "short": "L.R. 30/2011",
+   "title": "L.R. 28 dicembre 2011, n. 30: Disposizioni in materia di risorse idriche e di servizio idrico integrato",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1701",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 15,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1701",
+     "sha256": "49e7220a2ef7a9920bd25f49c8ba38332de3b7765ab1bd7d3f54402acb5f9095"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2012-1",
+   "short": "L.R. 1/2012",
+   "title": "L.R. 19 gennaio 2012, n. 1: Modifiche alla Legge regionale 31 ottobre 2011, n. 20 \"Assestamento di Bilancio 2011\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1708",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 2,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1708",
+     "sha256": "fd374adffc0f6ad3e110b65446076d3a8b6ae9c60e19a1318fd724b70c590796"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2012-2",
+   "short": "L.R. 2/2012",
+   "title": "L.R. 20 marzo 2012, n. 2: Abrogazione dell'articolo 10 della Legge regionale 31 ottobre 2011, n. 20: \"Assestamento di bilancio 2011\" e modifica dell'articolo 27 della Legge regionale 27 dicembre 2007, n. 19: \"Disposizioni per la formazione del bilancio annuale e pluriennale della Regione. Legge finanziaria 2008\"",
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1711",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 5,
+     "source_url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=vig&idl=1711",
+     "sha256": "f89157568231151a64a5250caf112f51df088c3bf7573f5b0f5f8ff82427730d"
+    }
+   ]
   }
  ]
 }
