@@ -807,20 +807,430 @@ e del decreto legge 10 ottobre 2012 n. 174 convertito, con modificazioni, dalla 
 | `lr-2014-20` | L.R. 4 agosto 2014, n. 20: Disposizioni per l'attuazione degli articoli 14, comma 1, lettere b) e f), e 47 del decreto legislativo 14 marzo 2013, n. 33 "Riordino della disciplina riguardante gli obblighi di Pubblicità, trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni". Modifiche alla legge regionale 17 dicembre 2012, n. 41 "Norme per la pubblicità e la trasparenza  | 1 | 2026-10-30 to 2026-10-30 |
 | `lr-2014-21` | L.R. 4 agosto 2014, n. 21: Approvazione delle modifiche all'intesa tra la Regione Umbria e la Regione Marche concernente il riordino dell'Istituto zooprofilattico sperimentale dell'Umbria e delle Marche 
 e modifica alla legge regionale 25 novembre 2013, n. 40 | 1 | 2026-10-30 to 2026-10-30 |
+| `lr-2014-22` | L.R. 10 settembre 2014, n. 22: Modifiche alla Legge Regionale 23 dicembre 2013, n. 49 "Disposizioni per la formazione del Bilancio Annuale 2014 e pluriennale 2014/2016 della Regione. Legge Finanziaria 2014" | 1 | 2026-10-30 to 2026-10-30 |
+| `lr-2014-23` | L.R. 26 settembre 2014, n. 23: Modifiche alla legge regionale 21 dicembre 2012, n. 44 "Individuazione del limite demografico minimo delle Unioni dei Comuni e modifica alla Legge regionale 1° luglio 2008, n. 18 'Norme in materia di Comunità Montane e di esercizio associato 
+di funzioni e servizi comunali" | 1 | 2026-10-30 to 2026-10-30 |
+| `lr-2014-25` | L.R. 9 ottobre 2014, n. 25: Disposizioni in materia di disturbi dello spettro autistico | 1 | 2026-10-30 to 2026-10-30 |
+| `lr-2014-26` | L.R. 9 ottobre 2014, n. 26: Variazione al bilancio di previsione 2014 e ulteriori modifiche alla legge regionale 23 dicembre 2013, n. 49 "Disposizioni per la formazione del bilancio annuale 2014 e 
+pluriennale 2014/2016 della Regione. Legge finanziaria 2014" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2014-29` | L.R. 17 novembre 2014, n. 29: Modifiche alla legge regionale 10 novembre 2009, n. 27 "Testo unico in materia di commercio", alla legge regionale 11 luglio 2006, n. 9 "Testo unico delle norme regionali in materia di turismo" e alla legge regionale 29 aprile 2008, n. 8 "Interventi di sostegno e promozione del commercio equo e solidale" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2014-30` | L.R. 17 novembre 2014, n. 30: Modifiche alla legge regionale 5 gennaio 1995, n. 7 "Norme per la protezione della Fauna Selvatica e per la Tutela dell'Equilibrio Ambientale e Disciplina dell'Attività Venatoria" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2014-31` | L.R. 17 novembre 2014, n. 31: Modifiche alla legge regionale 22 aprile 2013, n 6 "Disposizioni urgenti in materia di trasporto pubblico regionale e locale" e alla legge regionale 29 novembre 2013, n. 44 
+"Assestamento di bilancio 2013" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2014-32` | L.R. 1 dicembre 2014, n. 32: Sistema regionale integrato dei servizi sociali a tutela della persona e della famiglia | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2014-33` | L.R. 4 dicembre 2014, n. 33: Assestamento del bilancio 2014 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2014-35` | L.R. 15 dicembre 2014, n. 35: Istituzione e riconoscimento del logo "Impresa amica del sociale" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2014-36` | L.R. 30 dicembre 2014, n. 36: Disposizioni per la formazione del bilancio annuale 2015 e pluriennale 2015/2017 della Regione (Legge finanziaria 2015) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2014-37` | L.R. 30 dicembre 2014, n. 37: Bilancio di previsione per l'anno 2015 ed adozione del bilancio pluriennale per il triennio 2015/2017 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-1` | L.R. 15 gennaio 2015, n. 1: Modifiche alla legge regionale 26 marzo 2012, n. 3 "Disciplina Regionale della valutazione di impatto ambientale - VIA" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-2` | L.R. 11 febbraio 2015, n. 2: Modifiche alla legge regionale 30 dicembre 2014, n. 36 "Disposizioni per la formazione del bilancio annuale 2015 e pluriennale 2015/2017 della Regione. Legge finanziaria 2015" 
+e alla legge regionale 30 dicembre 2014, n. 37 "Bilancio di previsione per l'anno 2015 ed adozione del bilancio pluriennale per il triennio 2015/2017" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-3` | L.R. 16 febbraio 2015, n. 3: Legge di innovazione e semplificazione amministrativa | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-4` | L.R. 16 febbraio 2015, n. 4: Nuove norme in materia di servizio farmaceutico | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-6` | L.R. 9 marzo 2015, n. 6: Riconoscimento dell'agricoltore come custode dell'ambiente e del territorio | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-7` | L.R. 9 marzo 2015, n. 7: Modifiche alla legge regionale 16 luglio 2007, n. 8 "Disciplina delle deroghe previste dalla direttiva 79/409/CEE del 2 aprile 1979 e dell'articolo 19 bis della legge 11 febbraio 1992, n. 157 'Norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio' e modifica alla legge regionale 5 gennaio 1995, n. 7 'Norme per la protezione della fauna Selvati | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-8` | L.R. 9 marzo 2015, n. 8: Modifiche alla legge regionale 10 aprile 2007, n. 4 "Disciplina del Consiglio delle autonomie locali" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-9` | L.R. 24 marzo 2015, n. 9: Disposizioni in materia di prevenzione, diagnosi precoce e cura del diabete mellito | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-10` | L.R. 24 marzo 2015, n. 10: Modifica alla legge regionale 26 giugno 2008, n. 15 "Disciplina del Consiglio regionale dell'economia e del lavoro (CREL)" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-11` | L.R. 24 marzo 2015, n. 11: Disposizioni per l'istituzione della Banca regionale della terra e per favorire l'occupazione nel settore agricolo | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-12` | L.R. 1 aprile 2015, n. 12: Disposizioni urgenti per le elezioni regionali e gli adempimenti di fine legislatura | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-13` | L.R. 3 aprile 2015, n. 13: Disposizioni per il riordino delle funzioni amministrative esercitate dalle Province | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-14` | L.R. 13 aprile 2015, n. 14: Riordino della disciplina relativa al Collegio dei revisori dei conti della Regione Marche | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-15` | L.R. 13 aprile 2015, n. 15: Modifiche alla legge regionale 30 dicembre 2014, n. 36 "Disposizioni per la formazione del bilancio annuale 2015 e pluriennale 2015/2017 della Regione. Legge finanziaria 2015" e alla legge regionale 30 dicembre 2014, n. 37 "Bilancio di previsione per l'anno 2015 ed adozione del bilancio pluriennale per il triennio 2015/2017". Attuazione dell'articolo 22 della l.r. 37/20 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-16` | L.R. 13 aprile 2015, n. 16: Disposizioni di aggiornamento della legislazione regionale. modifiche alla legge regionale 30 dicembre 2014, n. 36 "Disposizioni per la formazione del bilancio annuale 2015 e pluriennale 2015/2017 della Regione. Legge finanziaria 2015" e alla legge regionale 30 dicembre 2014, n. 37 "Bilancio di previsione per l'anno 2015 ed adozione del bilancio pluriennale per il trien | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-17` | L.R. 20 aprile 2015, n. 17: Riordino e semplificazione della normativa regionale in materia di edilizia | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-18` | L.R. 20 aprile 2015, n. 18: Modifiche alla legge regionale 20 gennaio 1997, n. 10 "Norme in materia di animali da affezione e prevenzione del randagismo" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-19` | L.R. 20 aprile 2015, n. 19: Norme in materia di esercizio e controllo degli impianti termici degli edifici | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-20` | L.R. 3 agosto 2015, n. 20: Modifica alla legge regionale 5 agosto 1996, n. 34 "Norme per le nomine e designazioni di spettanza della Regione" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-21` | L.R. 16 settembre 2015, n. 21: Disposizioni urgenti in materia di trasporti e sanità e modifiche della legge regionale 30 dicembre 2014, n. 36 "Disposizioni per la formazione del bilancio annuale 2015 e pluriennale 2015/2017 della Regione (Legge finanziaria 2015)" e della legge regionale 4 dicembre 2014, n. 33 "Assestamento del bilancio 2014" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-22` | L.R. 21 settembre 2015, n. 22: Modifica alla legge regionale 13 marzo 1995, n. 23 "Disposizioni in materia di trattamento indennitario dei Consiglieri Regionali" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-24` | L.R. 8 ottobre 2015, n. 24: Modifiche alla legge regionale 10 agosto 1988, n. 34 "Finanziamento delle attività dei gruppi consiliari", alla legge regionale 15 ottobre 2001, n. 20 "Norme in materia di organizzazione e di personale della Regione" e alla legge regionale 30 giugno 2003, n. 14 "Riorganizzazione della struttura amministrativa del Consiglio regionale" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-25` | L.R. 21 ottobre 2015, n. 25: Modifica alla legge regionale 16 gennaio 1995, n. 10 "Norme sul riordinamento territoriale dei Comuni e delle Province nella Regione Marche" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-27` | L.R. 4 dicembre 2015, n. 27: Rendiconto generale della Regione per l'anno 2014 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-28` | L.R. 21 dicembre 2015, n. 28: Assestamento del bilancio 2015 e pluriennale 2015/2017 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-29` | L.R. 21 dicembre 2015, n. 29: Modifiche alla legge regionale 17 dicembre 2012, n. 41 "Norme per la pubblicità e la trasparenza della situazione patrimoniale dei componenti gli organi della Regione, dei titolari di cariche in istituti regionali di garanzia e di cariche direttive in enti o società" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-30` | L.R. 28 dicembre 2015, n. 30: Disposizioni per la formazione del bilancio 2016/2018 della Regione Marche (Legge di stabilità 2016) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-31` | L.R. 28 dicembre 2015, n. 31: Bilancio di previsione 2016/2018 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2015-32` | L.R. 28 dicembre 2015, n. 32: Misure urgenti di adeguamento della legislazione regionale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-2` | L.R. 29 febbraio 2016, n. 2: Modifica alla legge regionale 13 novembre 2001, n. 27 "Interventi per il coordinamento dei tempi delle città e la promozione dell'uso del tempo per fini di solidarietà sociale" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-3` | L.R. 9 marzo 2016, n. 3: Modifica alla legge regionale 16 gennaio 1995, n. 10 "Norme sul riordinamento territoriale dei Comuni e delle Province nella Regione Marche" - Disposizioni in materia di referendum | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-4` | L.R. 10 marzo 2016, n. 4: Disposizioni in materia di riorganizzazione degli uffici assembleari. Modifiche alle leggi regionali 10 agosto 1988, n. 34, 15 ottobre 2001, n. 20, 30 giugno 2003, n. 14, 26 febbraio 2008, n. 3 e 28 dicembre 2010, n. 22 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-5` | L.R. 18 marzo 2016, n. 5: Modifica alla legge regionale 9 febbraio 2010, n. 4 "Norme in materia di beni e attività culturali" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-6` | L.R. 25 marzo 2016, n. 6: Modifica alla legge regionale 3 aprile 2015, n. 13 "Disposizioni per il riordino delle funzioni amministrative esercitate dalle Province" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-8` | L.R. 18 aprile 2016, n. 8: Modifiche alla legge regionale 28 dicembre 2015, n. 30 "Disposizioni per la formazione del bilancio 2016/2018 della Regione Marche. Legge di stabilità 2016" e alla legge regionale 28 dicembre 2015, n. 31 "Bilancio di previsione 2016/2018" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-9` | L.R. 26 aprile 2016, n. 9: Abolizione del contributo per il funzionamento dei gruppi consiliari e modifiche alla legge regionale 10 agosto 1988, n. 34 "Finanziamento delle attività dei gruppi consiliari" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-10` | L.R. 2 maggio 2016, n. 10: Modifiche alla legge regionale 20 aprile 2015, n. 19 "Norme in materia di esercizio e controllo degli impianti termici degli edifici" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-11` | L.R. 23 maggio 2016, n. 11: Modifiche alla legge regionale 10 agosto 1988, n. 34 "Finanziamento delle attività dei gruppi consiliari" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-12` | L.R. 21 giugno 2016, n. 12: Modifiche alla legge regionale 23 febbraio 2005, n. 6 "Legge forestale regionale" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-13` | L.R. 27 giugno 2016, n. 13: Variazione generale al bilancio di previsione 2016/2018, ai sensi del comma 1 dell'articolo 51 del decreto legislativo 23 giugno 2011, n. 118. (1° provvedimento). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-15` | L.R. 7 luglio 2016, n. 15: Modifica alla legge regionale 1° dicembre 1997, n. 71 "Norme per la disciplina delle attività estrattive" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-16` | L.R. 19 luglio 2016, n. 16: Modifiche alla legge regionale 8 marzo 1990, n. 13 "Norme edilizie per il territorio agricolo" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-17` | L.R. 19 luglio 2016, n. 17: Ulteriori modifiche alla legge regionale 16 gennaio 1995, n. 10 "Norme sul riordinamento territoriale dei Comuni e delle province nella Regione Marche" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-18` | L.R. 1 agosto 2016, n. 18: Disposizioni urgenti di adeguamento dell'ordinamento regionale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-19` | L.R. 4 agosto 2016, n. 19: Ulteriori modifiche alla legge regionale 30 giugno 1997, n. 39 "Interventi a favore dei marchigiani all'estero" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-20` | L.R. 21 settembre 2016, n. 20: Modifiche alla legge regionale 27 marzo 2001, n. 8 "Istituzione, organizzazione e funzionamento del Comitato regionale per le Comunicazioni (CORECOM)" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-21` | L.R. 30 settembre 2016, n. 21: Autorizzazioni e accreditamento istituzionale delle strutture e dei servizi sanitari, socio-sanitari e sociali pubblici e privati e disciplina degli accordi contrattuali delle strutture e dei servizi sanitari, socio-sanitari e sociali pubblici e privati | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-22` | L.R. 30 settembre 2016, n. 22: Circuito storico, culturale, artistico, musicale e produttivo della fisarmonica | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-23` | L.R. 30 settembre 2016, n. 23: Modifica alla legge regionale 24 marzo 2015, n. 9 "Disposizioni in materia di prevenzione, diagnosi precoce e cura del diabete mellito" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-25` | L.R. 24 ottobre 2016, n. 25: Incorporazione del Comune di Acquacanina nel Comune di Fiastra | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-26` | L.R. 25 novembre 2016, n. 26: Modifiche alla legge regionale 8 ottobre 2009, n. 22 
+"Interventi della regione per il riavvio delle attività edilizie al fine di fronteggiare la crisi economica, difendere l'occupazione, migliorare la sicurezza degli edifici e promuovere tecniche di edilizia sostenibile" e alla legge regionale 4 dicembre 2014, n. 33 "Assestamento del bilancio 2014" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-27` | L.R. 2 dicembre 2016, n. 27: Modifiche alla legge regionale 14 novembre 2011, n. 21 "Disposizioni regionali in materia di multifunzionalità dell'azienda agricola e diversificazione in agricoltura" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-28` | L.R. 7 dicembre 2016, n. 28: Istituzione di un nuovo Comune mediante fusione dei Comuni di Barchi, Orciano di Pesaro, Piagge e San Giorgio di Pesaro, ai sensi dell'articolo 2, comma 1, Lettera A), della Legge Regionale 16 gennaio 1995, n. 10 "Norme sul Riordinamento Territoriale dei Comuni e delle Province nella Regione Marche" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-29` | L.R. 7 dicembre 2016, n. 29: Istituzione di un nuovo Comune mediante fusione dei Comuni di Montemaggiore al Metauro, Saltara e Serrungarina ai sensi dell'articolo 2, comma 1, Lettera A), della Legge Regionale 16 gennaio 1995. n. 10 "Norme sul Riordinamento Territoriale dei Comuni e delle Province nella Regione Marche" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-30` | L.R. 15 dicembre 2016, n. 30: Organizzazione e funzionamento degli organismi regionali di garanzia | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-31` | L.R. 15 dicembre 2016, n. 31: Modifiche alla legge regionale 20 gennaio 1997, n. 10 "Norme in materia di animali da affezione e prevenzione del randagismo" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-32` | L.R. 15 dicembre 2016, n. 32: Rendiconto generale della Regione per l'anno 2015 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-33` | L.R. 22 dicembre 2016, n. 33: Assestamento del bilancio di previsione 2016/2018 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-34` | L.R. 22 dicembre 2016, n. 34: Istituzione di un nuovo Comune mediante fusione dei Comuni di Pievebovigliana e Fiordimonte, ai sensi dell'articolo 2, comma 1, lettera a), della legge regionale 16 gennaio 1995, n. 10 "Norme sul riordinamento territoriale dei Comuni e delle Province nella Regione Marche" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-35` | L.R. 30 dicembre 2016, n. 35: Disposizioni per la formazione del bilancio 2017/2019 della Regione Marche (legge di stabilità 2017) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-36` | L.R. 30 dicembre 2016, n. 36: Bilancio di previsione 2017/2019 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2016-37` | L.R. 30 dicembre 2016, n. 37: Misure urgenti di adeguamento della legislazione regionale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-1` | L.R. 27 gennaio 2017, n. 1: Anticipazione finanziaria per fronteggiare la crisi sismica | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-3` | L.R. 7 febbraio 2017, n. 3: Norme per la prevenzione e il trattamento del gioco d'azzardo patologico e della dipendenza da nuove tecnologie e social network | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-5` | L.R. 20 febbraio 2017, n. 5: Ulteriori disposizioni per l'attuazione del processo di riordino delle funzioni amministrative esercitate dalle Province, in materia di organizzazione e di assetto idrogeologico | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-7` | L.R. 14 marzo 2017, n. 7: Modifiche della legge regionale 30 settembre 2016, n. 21 "Autorizzazioni e accreditamento istituzionale delle strutture e dei servizi sanitari, socio-sanitari e sociali pubblici e privati e disciplina degli accordi contrattuali delle strutture e dei servizi sanitari, socio-sanitari e sociali pubblici e privati". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-8` | L.R. 21 marzo 2017, n. 8: Modifiche alla Legge Regionale 20 giugno 2003, n. 13 "Riorganizzazione del Servizio Sanitario Regionale". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-9` | L.R. 29 marzo 2017, n. 9: Nomina e funzionamento delle Commissioni per la determinazione dell'indennità di espropriazione. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-10` | L.R. 29 marzo 2017, n. 10: Anticipazione finanziaria per spese in materia venatoria. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-11` | L.R. 29 marzo 2017, n. 11: Ulteriori disposizioni in materia di gestione dei molluschi bivalvi. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-12` | L.R. 30 marzo 2017, n. 12: Disciplina regionale in materia di impianti radioelettrici ai fini della tutela ambientale e sanitaria della popolazione. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-13` | L.R. 7 aprile 2017, n. 13: Interventi urgenti per assicurare la continuità del servizio di trasporto aereo nella regione Marche. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-14` | L.R. 19 aprile 2017, n. 14: Disposizioni per la tutela dell'infanzia e dell'adolescenza e lo sviluppo di progetti a sostegno delle "Città sostenibili e amiche dei bambini e degli adolescenti" della regione Marche | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-15` | L.R. 28 aprile 2017, n. 15: Disposizioni di semplificazione e aggiornamento della normativa regionale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-16` | L.R. 15 maggio 2017, n. 16: Modifiche alla legge regionale 10 agosto 1998, n. 30 "Interventi a favore della famiglia". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-17` | L.R. 15 maggio 2017, n. 17: Modifiche alla legge regionale 3 aprile 2013, n. 5 "Norme in materia di raccolta e coltivazione dei tartufi e di valorizzazione del patrimonio tartufigeno" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-18` | L.R. 15 maggio 2017, n. 18: Promozione di interventi di sostegno e valorizzazione della cultura e della tradizione motoristica della regione Marche. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-20` | L.R. 28 giugno 2017, n. 20: Nuove disposizioni urgenti in materia di gestione dei molluschi bivalvi | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-21` | L.R. 4 luglio 2017, n. 21: Modifiche ed integrazioni alla legge regionale 20 aprile 2015, n. 19 "Norme in materia di esercizio e controllo degli impianti termici degli edifici" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-22` | L.R. 10 luglio 2017, n. 22: Modifica alla legge regionale 10 aprile 2007, n. 4 "Disciplina del Consiglio delle autonomie locali" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-23` | L.R. 10 luglio 2017, n. 23: Modifiche alla legge regionale 16 febbraio 2015, n. 3 "Legge di innovazione e semplificazione amministrativa" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-24` | L.R. 20 luglio 2017, n. 24: Variazione generale al bilancio di previsione 2017/2019 ai sensi del comma 1 dell'articolo 51 del decreto legislativo 23 giugno 2011, n. 118 - (1° provvedimento). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-25` | L.R. 2 agosto 2017, n. 25: Disposizioni urgenti per la semplificazione e l'accelerazione degli interventi di ricostruzione conseguenti agli eventi sismici del 2016 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-26` | L.R. 7 agosto 2017, n. 26: Uso terapeutico della cannabis | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-27` | L.R. 7 agosto 2017, n. 27: Norme per la promozione della cultura della legalità e della cittadinanza responsabile | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-28` | L.R. 9 agosto 2017, n. 28: Disposizioni relative all'osservanza dell'obbligo vaccinale e all'esercizio delle funzioni regionali concernenti la prevenzione vaccinale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-29` | L.R. 18 ottobre 2017, n. 29: Variazione generale al bilancio di previsione 2017/2019 ai sensi del comma 1 dell'articolo 51 del decreto legislativo 23 giugno 2011, n. 118 - (2° provvedimento). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-30` | L.R. 20 ottobre 2017, n. 30: Sagre di qualità. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-31` | L.R. 8 novembre 2017, n. 31: Rendiconto generale della Regione per l'anno 2016. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-32` | L.R. 13 novembre 2017, n. 32: Interventi di economia solidale, lotta agli sprechi e prime azioni di prevenzione della produzione dei rifiuti. Modifica alla legge regionale 5 febbraio 2013, n. 3 
+"Interventi regionali per il recupero, la restituzione e la donazione ai fini del riutilizzo di medicinali in corso di validità". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-33` | L.R. 24 novembre 2017, n. 33: Modifiche alla legge regionale 11 luglio 2006, n. 9 "Testo unico delle norme regionali in materia di turismo". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-34` | L.R. 4 dicembre 2017, n. 34: Assestamento del bilancio di previsione 2017/2019. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-35` | L.R. 18 dicembre 2017, n. 35: Modifica alla legge regionale 25 maggio 1999, n. 13 "Disciplina regionale della difesa del suolo" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-36` | L.R. 18 dicembre 2017, n. 36: Modifiche alla legge regionale 20 gennaio 1997, n. 10 "Norme in materia di animali da affezione e prevenzione del randagismo". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-37` | L.R. 18 dicembre 2017, n. 37: Interventi a favore del cicloturismo. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-38` | L.R. 18 dicembre 2017, n. 38: Disposizioni in favore dei soggetti affetti da fibromialgia e da sensibilità chimica multipla. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-39` | L.R. 29 dicembre 2017, n. 39: Disposizioni per la formazione del bilancio 2018/2020 della Regione Marche (Legge di stabilità 2018). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-40` | L.R. 29 dicembre 2017, n. 40: Bilancio di previsione 2018/2020. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-1` | L.R. 4 gennaio 2018, n. 1: Nuove norme per le costruzioni in zone sismiche nella regione Marche | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-2` | L.R. 9 febbraio 2018, n. 2: Disposizioni urgenti di aggiornamento della normativa regionale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-3` | L.R. 12 marzo 2018, n. 3: Istituzione del servizio civile volontario degli anziani. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-4` | L.R. 3 aprile 2018, n. 4: Modifiche alla legge regionale 13 aprile 2015, n. 14 "Riordino della disciplina relativa al Collegio dei revisori dei conti della Regione Marche". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-5` | L.R. 3 aprile 2018, n. 5: Norme in materia della tariffazione puntuale dei rifiuti nella regione Marche. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-7` | L.R. 3 aprile 2018, n. 7: Riconoscimento di debito ai sensi dell'articolo 73 del decreto legislativo 23 giugno 2011, n. 118. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-8` | L.R. 3 maggio 2018, n. 8: Recepimento dello schema di regolamento edilizio tipo (RET)
+in attuazione dell'intesa di cui all'articolo 4, comma 1 sexies,
+del d.p.r. 6 giugno 2001, n. 380 "Testo unico delle disposizioni
+legislative e regolamentari in materia edilizia".
+Modifiche alle leggi regionali 20 aprile 2015, n. 17 "Riordino e
+semplificazione della normativa regionale in materia di edilizia | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-9` | L.R. 8 maggio 2018, n. 9: Modifica dell'articolo 7 della legge regionale 2 settembre 1997, n. 60 "Istituzione dell'Agenzia regionale per la protezione ambientale delle Marche (ARPAM)". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-10` | L.R. 8 maggio 2018, n. 10: Disposizioni finanziarie relative al riordino delle funzioni in materia di mercato del lavoro. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-11` | L.R. 14 maggio 2018, n. 11: Modifica alla legge regionale 1° febbraio 2005, n. 3 "Norme in materia di attività e servizi necroscopici funebri e cimiteriali". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-12` | L.R. 14 maggio 2018, n. 12: Modifiche alla legge regionale 29 dicembre 1997, n. 76 "Disciplina dell'agricoltura biologica". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-13` | L.R. 14 maggio 2018, n. 13: Modifiche alla legge regionale 30 ottobre 2008, n. 30 "Disciplina delle attività regionali in materia di commercio estero, promozione economica ed internazionalizzazione delle imprese e del sistema territoriale". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-14` | L.R. 17 maggio 2018, n. 14: Tutela e valorizzazione della dieta mediterranea. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-15` | L.R. 17 maggio 2018, n. 15: Interventi di sostegno e di valorizzazione della cultura fotografica. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-16` | L.R. 17 maggio 2018, n. 16: Modifiche alla legge regionale 24 marzo 2015, n. 11 "Disposizioni per l'istituzione della Banca regionale della terra e per favorire l'occupazione nel settore agricolo". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-17` | L.R. 5 giugno 2018, n. 17: Modifiche alla legge regionale 12 marzo 2018, n. 3 "Istituzione del servizio civile volontario degli anziani". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-18` | L.R. 5 giugno 2018, n. 18: Modifica alla legge regionale 16 febbraio 2015, n. 4 "Nuove norme in materia di servizio farmaceutico". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-19` | L.R. 5 giugno 2018, n. 19: Modifiche alla legge regionale 7 aprile 2017, n. 13 "Interventi urgenti per assicurare la continuità del servizio di trasporto aereo nella regione Marche". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-20` | L.R. 5 giugno 2018, n. 20: Modifica alla legge regionale 20 gennaio 1997, n. 10: "Norme in materia di animali da affezione e prevenzione del randagismo" e abrogazione della legge regionale 3 aprile 2018, n. 6: "Modifica alla legge regionale 20 gennaio 1997, n. 10 'Norme in materia di animali da affezione e prevenzione del randagismo' e alla legge regionale 18 dicembre 2017, n. 36 'Modifiche alla l | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-21` | L.R. 28 giugno 2018, n. 21: Interventi regionali per favorire la vita indipendente delle persone con disabilità. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-22` | L.R. 28 giugno 2018, n. 22: Modifica alla legge regionale 12 ottobre 2009, n. 24 "Disciplina regionale in materia di gestione integrata dei rifiuti e bonifica dei siti inquinati". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-23` | L.R. 28 giugno 2018, n. 23: Modifiche alla legge regionale 10 aprile 2007, n. 4 "Disciplina del Consiglio delle autonomie locali" e alla legge regionale 26 giugno 2008, n.15 "Disciplina del Consiglio regionale dell'economia e del lavoro (CREL)". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-24` | L.R. 17 luglio 2018, n. 24: Promozione di negozi di prodotti sfusi e alla spina. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-26` | L.R. 18 luglio 2018, n. 26: Modifica alla legge regionale 29 dicembre 1997, n. 76 "Disciplina dell'agricoltura biologica". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-27` | L.R. 23 luglio 2018, n. 27: Modifiche alle leggi regionali 4 dicembre 2017, n. 34 "Assestamento del bilancio di previsione 2017/2019", 29 dicembre 2017, n. 39 "Disposizioni per la formazione del bilancio 2018/2020 della Regione Marche. Legge di stabilità 2018", 29 dicembre 2017, n. 40 "Bilancio di previsione 2018/2020" e modifiche alla legge regionale 20 gennaio 1997, n. 15 "Disciplina del tributo | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-29` | L.R. 23 luglio 2018, n. 29: Valorizzazione e sostegno delle manifestazioni di rievocazione storica. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-30` | L.R. 31 luglio 2018, n. 30: Modifiche alla legge regionale 22 aprile 2014, n. 7 "Norme sulle misure di prevenzione e protezione dai rischi di caduta dall'alto da predisporre negli edifici per l'esecuzione dei lavori di manutenzione sulle coperture in condizioni di sicurezza". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-31` | L.R. 31 luglio 2018, n. 31: Disposizioni urgenti di modifica delle leggi regionali 17 luglio 1996, n. 26 "Riordino del servizio sanitario regionale" e 20 giugno 2003, n. 13 "Riorganizzazione del Servizio Sanitario Regionale". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-32` | L.R. 6 agosto 2018, n. 32: Disciplina degli interventi regionali di carattere educativo per la prevenzione ed il contrasto dei fenomeni del bullismo, del cyberbullismo, del sexting e della cyberpedofilia. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-33` | L.R. 6 agosto 2018, n. 33: Disposizioni regionali per favorire la riduzione in mare e sulle spiagge dei rifiuti plastici. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-34` | L.R. 6 agosto 2018, n. 34: Disposizioni per favorire l'accesso delle persone con disabilità alle aree demaniali destinate alla balneazione. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-35` | L.R. 28 agosto 2018, n. 35: Modifiche alle leggi regionali 13 maggio 2003, n. 9 "Disciplina per la realizzazione e gestione dei servizi per l'infanzia, per l'adolescenza e per il sostegno alle funzioni genitoriali e alle famiglie e modifica della Legge regionale 12 aprile 1995, n. 46 concernente: 'Promozione e coordinamento delle politiche di intervento in favore dei giovani e degli adolescenti'"  | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-36` | L.R. 20 settembre 2018, n. 36: Rendiconto generale della Regione per l'anno 2017 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-37` | L.R. 20 settembre 2018, n. 37: Sostegno a politiche locali dirette all'incremento dell'efficienza energetica e alla promozione delle energie rinnovabili. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-38` | L.R. 1 ottobre 2018, n. 38: Modifica alla legge regionale 23 luglio 2018, n. 29 "Valorizzazione e sostegno delle manifestazioni di rievocazione storica". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-39` | L.R. 3 ottobre 2018, n. 39: Variazione generale al bilancio di previsione 2018/2020 ai sensi del comma 1 dell'articolo 51 del decreto legislativo 23 giugno 2011, n. 118 - (1° provvedimento). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-40` | L.R. 22 ottobre 2018, n. 40: Modifiche alla legge regionale 17 luglio 1996, n. 26: "Riordino del servizio sanitario regionale" e alla legge regionale 31 luglio 2018, n. 31: "Disposizioni urgenti di modifica delle leggi regionali 17 luglio 1996, n. 26 'Riordino del servizio sanitario regionale' e 20 giugno 2003, n. 13 'Riorganizzazione del Servizio Sanitario Regionale'". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-41` | L.R. 22 ottobre 2018, n. 41: Modifiche alla legge regionale 13 maggio 2003, n. 9 "Disciplina per la realizzazione e gestione dei servizi per l'infanzia, per l'adolescenza e per il sostegno alle funzioni genitoriali e alle famiglie e modifica della legge regionale 12 aprile 1995, n. 46 concernente: 'Promozione e coordinamento delle politiche di intervento in favore dei giovani e degli adolescenti'" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-42` | L.R. 22 ottobre 2018, n. 42: Modifica alla legge regionale 30 settembre 2016, n. 21 "Autorizzazioni e accreditamento istituzionale delle strutture e dei servizi sanitari, socio-sanitari e sociali pubblici e privati e disciplina degli accordi contrattuali delle strutture e 
+dei servizi sanitari, socio-sanitari e sociali pubblici e privati". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-43` | L.R. 24 ottobre 2018, n. 43: Assestamento del bilancio di previsione 2018/2020 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-44` | L.R. 7 novembre 2018, n. 44: Modifiche alla legge regionale 5 gennaio 1995, n. 7 "Norme per la protezione della fauna selvatica e per la tutela dell'equilibrio ambientale e disciplina dell'attività venatoria" e disposizioni urgenti sulla pianificazione faunistico-venatoria. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-45` | L.R. 7 novembre 2018, n. 45: Disposizioni abrogative in materia di tesoreria regionale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-47` | L.R. 12 dicembre 2018, n. 47: Istituzione di un nuovo Comune mediante fusione dei Comuni di Auditore e Sassocorvaro, ai sensi della lettera a) del comma 1 dell'articolo 2 della legge regionale 16 gennaio 1995, n. 10 "Norme sul riordinamento territoriale dei Comuni e delle Province nella Regione Marche". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-48` | L.R. 12 dicembre 2018, n. 48: Modifiche alla legge regionale 28 luglio 2008, n. 23 "Autorità di garanzia per il rispetto dei diritti di adulti e bambini - Ombudsman regionale". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-49` | L.R. 27 dicembre 2018, n. 49: Modifiche ed integrazioni alla legge regionale 16 dicembre 2005, n. 36 "Riordino del sistema regionale delle politiche abitative" e alla legge regionale 27 dicembre 2006, n. 22 "Modificazioni ed integrazioni alla legge regionale 16
+dicembre 2005, n. 36 'Riordino del sistema regionale delle politiche abitative'" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-50` | L.R. 27 dicembre 2018, n. 50: Disposizioni urgenti in materia di politiche sociali e sanitarie. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-51` | L.R. 28 dicembre 2018, n. 51: Disposizioni per la formazione del bilancio 2019/2021 della Regione Marche (Legge di stabilità 2019) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-52` | L.R. 28 dicembre 2018, n. 52: Bilancio di previsione 2019/2021 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-1` | L.R. 28 gennaio 2019, n. 1: Promozione dell'invecchiamento attivo | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-2` | L.R. 7 febbraio 2019, n. 2: Disposizioni per l'Ente parco regionale del Conero | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-3` | L.R. 7 febbraio 2019, n. 3: Modifiche alla legge regionale 4 gennaio 2018, n. 1 "Nuove norme per le costruzioni in zone sismiche nella regione Marche". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-5` | L.R. 20 febbraio 2019, n. 5: Interventi di lotta al tabagismo per la tutela della salute. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-6` | L.R. 25 febbraio 2019, n. 6: Modifiche ed integrazioni alla legge regionale 17 giugno 2013, n. 13 "Riordino degli interventi in materia di Bonifica e di Irrigazione. Costituzione del Consorzio di Bonifica delle Marche e fusione dei Consorzi di Bonifica del Foglia, Metauro e Cesano, del Musone, Potenza, Chienti, Asola e Alto Nera, dell'Aso, del Tenna e del Tronto". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-7` | L.R. 1 aprile 2019, n. 7: Disposizioni per garantire una buona vita fino all'ultimo e l'accesso alle cure palliative nella regione Marche | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-8` | L.R. 18 aprile 2019, n. 8: Disposizioni di semplificazione e aggiornamento della normativa regionale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-9` | L.R. 8 maggio 2019, n. 9: Modifica della legge regionale 2 settembre 1997, n. 60 "Istituzione dell'agenzia regionale per la protezione ambientale delle Marche (ARPAM)" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-10` | L.R. 9 maggio 2019, n. 10: Cimiteri per animali d'affezione | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-11` | L.R. 9 maggio 2019, n. 11: Disposizioni in materia di Valutazione di impatto ambientale (VIA) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-13` | L.R. 30 maggio 2019, n. 13: Modifica alla legge regionale 13 marzo 1995, n. 23 "Disposizioni in materia di trattamento indennitario dei Consiglieri regionali". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-14` | L.R. 30 maggio 2019, n. 14: Disposizioni per la rideterminazione degli assegni vitalizi, diretti, indiretti e di reversibilità. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-15` | L.R. 13 giugno 2019, n. 15: Modifiche di disposizioni in materia sanitaria e socio sanitaria. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-16` | L.R. 13 giugno 2019, n. 16: Modifiche alla legge regionale 3 aprile 2013, n. 5 "Norme in materia di raccolta e coltivazione dei tartufi e di valorizzazione del patrimonio tartufigeno". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-17` | L.R. 27 giugno 2019, n. 17: Disposizioni in materia di produzione e vendita di pane e loro valorizzazione. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-18` | L.R. 8 luglio 2019, n. 18: Modifiche alle leggi regionali 10 agosto 1988, n. 34 "Finanziamento delle attività dei gruppi consiliari", 15 ottobre 2001, n. 20 "Norme in materia di organizzazione e di personale della Regione", 30 giugno 2003, n. 14 "Riorganizzazione della struttura amministrativa del Consiglio Regionale", 15 novembre 2010, n. 16 "Assestamento del bilancio 2010". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-19` | L.R. 8 luglio 2019, n. 19: Modifica alla legge regionale 9 maggio 2019, n. 10 "Cimiteri per animali d'affezione". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-20` | L.R. 8 luglio 2019, n. 20: Disciplina regionale per l'accesso dei cani alle spiagge. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-21` | L.R. 8 luglio 2019, n. 21: Istituzione del Parlamento degli studenti della regione Marche. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-22` | L.R. 29 luglio 2019, n. 22: Valorizzazione delle arti visive e figurative e dell'attività del Museo Archivio del Manifesto. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-24` | L.R. 31 luglio 2019, n. 24: Disposizioni urgenti di modifica delle leggi regionali 3 agosto 2010, n. 11 "Misure urgenti in materia di contenimento della spesa", 30 dicembre 2014, n. 36 "Disposizioni per la formazione del bilancio annuale 2015 e pluriennale 2015/2017 della Regione. Legge finanziaria 2015", 3 ottobre 2018, n. 39 "Variazione generale al bilancio di previsione 2018/2020 ai sensi del c | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-25` | L.R. 1 agosto 2019, n. 25: Modifiche e integrazioni alla legge regionale 2 agosto 2017, n. 25 "Disposizioni urgenti per la semplificazione e l'accelerazione degli interventi di ricostruzione conseguenti agli eventi sismici del 2016". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-26` | L.R. 1 agosto 2019, n. 26: Sostegno alla creazione della filiera della canapa industriale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-27` | L.R. 1 agosto 2019, n. 27: Norme per la riduzione dei rifiuti derivanti dai prodotti realizzati in plastica. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-28` | L.R. 18 settembre 2019, n. 28: Valorizzazione dei dialetti marchigiani. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-29` | L.R. 18 settembre 2019, n. 29: Criteri localizzativi degli impianti di combustione dei rifiuti e del CSS. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-30` | L.R. 23 settembre 2019, n. 30: Rendiconto generale della Regione perl'anno 2018 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-31` | L.R. 23 settembre 2019, n. 31: Promozione della cultura della valutazione delle politiche pubbliche e modifiche alla legge regionale 30 giugno 2003, n. 14 "Riorganizzazione della struttura amministrativa del Consiglio regionale". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-32` | L.R. 24 settembre 2019, n. 32: Modifiche alla legge regionale 8 luglio 2019, n. 20 "Disciplina regionale per l'accesso dei cani alle spiagge". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-33` | L.R. 3 ottobre 2019, n. 33: Promozione della multifunzionalità nel settore della pesca marittima e del turismo marittimo. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-34` | L.R. 3 ottobre 2019, n. 34: Interventi di sostegno e di valorizzazione del cinema documentario nella regione Marche. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-36` | L.R. 21 ottobre 2019, n. 36: Modifiche alla legge regionale 16 dicembre 2004, n. 27 "Norme per l'elezione del Consiglio e del Presidente della Giunta regionale" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-37` | L.R. 18 novembre 2019, n. 37: Modificazioni alla legislazione regionale in materia istituzionale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-38` | L.R. 18 novembre 2019, n. 38: Disposizioni in materia di equo compenso | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-39` | L.R. 2 dicembre 2019, n. 39: Assestamento del bilancio di previsione 2019/2021 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-40` | L.R. 17 dicembre 2019, n. 40: Modifiche di disposizioni in tema di sviluppo economico ed attività produttive | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-41` | L.R. 30 dicembre 2019, n. 41: Disposizioni per la formazione del bilancio 2020/2022 della Regione Marche (Legge di stabilità 2020) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-42` | L.R. 30 dicembre 2019, n. 42: Bilancio di previsione 2020/2022 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-43` | L.R. 30 dicembre 2019, n. 43: Misure urgenti di adeguamento della legislazione regionale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-1` | L.R. 20 gennaio 2020, n. 1: Modifica alla legge regionale 1 dicembre 1997, n. 71 "Norme per la disciplina delle attività estrattive" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-2` | L.R. 29 gennaio 2020, n. 2: Modifiche alla legge regionale 8 ottobre 2009, n. 22 "Interventi della Regione per il riavvio delle attività edilizie al fine di fronteggiare la crisi economica, difendere l'occupazione, migliorare la sicurezza degli edifici e promuovere tecniche di edilizia sostenibile" e alla legge regionale 2 agosto 2017, n. 25 "Disposizioni urgenti per la semplificazione e l'acceler | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-3` | L.R. 6 febbraio 2020, n. 3: Disciplina dell'attività ispettiva in materia sanitaria e socio-sanitaria | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-4` | L.R. 18 febbraio 2020, n. 4: Norme in materia di compostaggio della frazione organica dei rifiuti nella regione Marche | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-5` | L.R. 18 febbraio 2020, n. 5: Disposizioni per la promozione del riconoscimento della lingua italiana dei segni e la piena accessibilità delle persone alla vita collettiva | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-6` | L.R. 19 febbraio 2020, n. 6: Promozione e valorizzazione della birra artigianale ed agricola nella regione Marche | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-7` | L.R. 5 marzo 2020, n. 7: Riconoscimento e valorizzazione di Serra San Quirico come Comune di riferimento regionale del "Teatro Educazione" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-8` | L.R. 5 marzo 2020, n. 8: Incorporazione del Comune di Monteciccardo nel Comune di Pesaro | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-9` | L.R. 5 marzo 2020, n. 9: Norme in materia di utilizzo dei prodotti fitosanitari | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-10` | L.R. 5 marzo 2020, n. 10: Modifiche ed integrazioni alla legge regionale 18 gennaio 2010, n. 2 "Istituzione della rete escursionistica della Regione Marche" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-11` | L.R. 9 marzo 2020, n. 11: Adeguamento della normativa regionale alla legislazione di principio ed ulteriori modificazioni delle disposizioni legislative regionali | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-12` | L.R. 7 aprile 2020, n. 12: Disposizioni urgenti per emergenza epidemiologica da COVID-19 e riconoscimento di debito fuori bilancio | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-13` | L.R. 10 aprile 2020, n. 13: Misure urgenti per il sostegno alle attività produttive e al lavoro autonomo a seguito dell'emergenza epidemiologica COVID-19 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-14` | L.R. 22 aprile 2020, n. 14: Incentivi per lo smaltimento di piccoli quantitativi di rifiuti contenenti amianto | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-15` | L.R. 22 aprile 2020, n. 15: Promozione del libro e della lettura | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-16` | L.R. 30 aprile 2020, n. 16: Modifiche alla legge regionale 10 novembre 2009, n. 27 "Testo unico in materia di commercio", alla legge regionale 4 aprile 2011, n.5 "Interventi regionali per il sostegno e la promozione di osterie, locande, taverne e spacci di campagna storici" e alla legge regionale 3 ottobre 2019, n. 33 "Promozione della multifunzionalità nel settore della pesca marittima e del turi | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-17` | L.R. 30 aprile 2020, n. 17: Iniziative a sostegno del talento contemporaneo | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-18` | L.R. 13 maggio 2020, n. 18: Modifiche urgenti alla legge regionale 23 febbraio 2005, n. 15 "Istituzione del sistema regionale del servizio civile" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-19` | L.R. 28 maggio 2020, n. 19: Modifiche alla legge regionale 8 ottobre 2009, n. 22 "Interventi della Regione per il riavvio delle attività edilizie al fine di fronteggiare la crisi economica, difendere l'occupazione, migliorare la sicurezza degli edifici e promuovere tecniche di edilizia sostenibile", come modificata dalla legge regionale 29 gennaio 2020, n. 2 e alla legge regionale 2 agosto 2017, n | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-20` | L.R. 3 giugno 2020, n. 20: Misure straordinarie ed urgenti connesse all'emergenza epidemiologica da Covid-19 per la ripartenza delle Marche | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-21` | L.R. 10 giugno 2020, n. 21: Modifiche alla legge regionale 28 luglio 2008, n. 23 "Garante regionale dei diritti della persona" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-23` | L.R. 10 giugno 2020, n. 23: Interventi per la promozione dell'educazione alla cittadinanza globale ed alla cultura della sostenibilità | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-24` | L.R. 2 luglio 2020, n. 24: Modifiche alla legge regionale 16 dicembre 2004, n. 27. "Norme per l'elezione del Consiglio e del Presidente della Giunta regionale" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-25` | L.R. 2 luglio 2020, n. 25: Disposizioni urgenti in tema di sviluppo economico, attività produttive e prelievo venatorio | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-26` | L.R. 2 luglio 2020, n. 26: Modifiche alla legge regionale 23 gennaio 1996, n. 4 "Disciplina delle attività professionali nei settori del turismo e del tempo libero" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-27` | L.R. 2 luglio 2020, n. 27: Modifiche ed integrazioni alla legge regionale 18 gennaio 2010, n. 2 "Istituzione della rete escursionistica della Regione Marche" come modificata dalla legge regionale 5 marzo 2020, n. 10 e alla legge regionale 22 aprile 2020 n. 14 "Incentivi per la rimozione e lo smaltimento di piccoli quantitativi di rifiuti contenenti amianto" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-28` | L.R. 2 luglio 2020, n. 28: Ulteriori modifiche alla legge regionale 11 luglio 2006, n. 9 "Testo unico delle norme regionali in materia di turismo" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-29` | L.R. 9 luglio 2020, n. 29: Modifiche alla legge regionale 12 novembre 2012, n. 31 "Norme in materia di gestione dei corsi d'acqua" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-31` | L.R. 23 luglio 2020, n. 31: Disposizioni in materia di partecipazione all'elaborazione e alla valutazione delle politiche pubbliche | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-32` | L.R. 23 luglio 2020, n. 32: Modifiche alla legge regionale 11 novembre 2013, n. 35 "Norme in materia di Unioni montane e di esercizio associato delle funzioni dei Comuni montani" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-33` | L.R. 23 luglio 2020, n. 33: Celebrazioni del V Centenario della nascita di Sisto V (1521-2021) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-35` | L.R. 30 luglio 2020, n. 35: Disposizioni per la valorizzazione dei luoghi della lotta partigiana e dell'antifascismo denominati Parchi della memoria storica della Resistenza | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-36` | L.R. 30 luglio 2020, n. 36: Utilizzo della tecnologia fondata sul sistema di "Registro Distribuito" - DTL "Distributed Ledger Tecnology" - per la certificazione dei pubblici registri, la tracciabilità dei prodotti tipici e l'incentivazione di comportamenti virtuosi | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-37` | L.R. 3 agosto 2020, n. 37: Accesso dei disabili motori al percorsi escursionistici | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-38` | L.R. 3 agosto 2020, n. 38: Indirizzi per la programmazione delle politiche regionali in materia di inclusione sociale, sostegno al lavoro e lotta alla povertà | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-39` | L.R. 3 agosto 2020, n. 39: Diffusione delle tecniche salvavita di disostruzione in età pediatrica e di rianimazione cardiopolmonare nonché delle tecniche di primo soccorso | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-40` | L.R. 3 agosto 2020, n. 40: Disposizioni relative alla presa in carico delle persone con disturbi della nutrizione e dell'alimentazione o del comportamento alimentare | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-41` | L.R. 3 agosto 2020, n. 41: Interventi a favore delle aree montane disagiate e disposizioni in materia di turismo | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-42` | L.R. 3 agosto 2020, n. 42: Giornata Carlo Urbani | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-43` | L.R. 3 agosto 2020, n. 43: Ratifica delle deliberazioni di giunta regionale n. 729 del 15 giugno 2020 e n. 876 del 6 luglio 2020. Disposizioni urgenti in materia finanziaria ed istituzionale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-44` | L.R. 5 agosto 2020, n. 44: Modifiche ed integrazioni alla Legge Regionale 8 ottobre 2009, n. 22 (interventi della regione per il riavvio delle attività edilizie al fine di fronteggiare la crisi economica, difendere l'occupazione, migliorare la sicurezza degli edifici e promuovere tecniche di edilizia sostenibile) e alla legge regionale 2 agosto 2017, n. 25 (disposizioni urgenti per la semplificazi | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-45` | L.R. 5 agosto 2020, n. 45: Modifiche ed integrazioni alla Legge Regionale 4 gennaio 2018, n. 1 "Nuove norme per le costruzioni in zone sismiche nella regione Marche" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-46` | L.R. 5 agosto 2020, n. 46: Variazione generale al bilancio di previsione 2020/2022 al sensi del comma 1 dell'articolo 51 del Decreto Legislativo 23 giugno 2011, n. 118 - (1° provvedimento) e modificazioni alla Legge Regionale 3 giugno 2020, n. 20 "Misure straordinarie ed urgenti connesse all'emergenza epidemiologica da Covid-19 per la ripartenza delle Marche" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-47` | L.R. 24 novembre 2020, n. 47: Ulteriore sostegno finanziario alle micro e piccole imprese. Modifiche alla legge regionale 10 aprile 2020, n. 13 "Misure urgenti per il sostegno alle attività produttive e al lavoro autonomo a seguito dell'emergenza epidemiologica COVID-19 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-48` | L.R. 3 dicembre 2020, n. 48: Rendiconto generale della Regione per l'anno 2019 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-49` | L.R. 3 dicembre 2020, n. 49: Assestamento del bilancio 2020-2022 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-50` | L.R. 14 dicembre 2020, n. 50: Modifiche ed integrazioni alla legge regionale 4 gennaio 2018, n. 1 "Nuove norme per le costruzioni in zone sismiche nella regione Marche", così come modificata dalla legge regionale 5 agosto 2020, n. 45 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-52` | L.R. 17 dicembre 2020, n. 52: Modifiche ed integrazioni alla legge regionale 12 novembre 2012 n. 31 "Norme in materia di gestione dei corsi d'acqua", così come modificata dalla legge regionale 9 luglio 2020 n. 29 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-53` | L.R. 31 dicembre 2020, n. 53: Disposizioni per la formazione del bilancio 2021-2023 della Regione Marche (Legge di stabilità 2021) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-54` | L.R. 31 dicembre 2020, n. 54: Bilancio di previsione 2021-2023 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-1` | L.R. 5 gennaio 2021, n. 1: Ulteriori modificazioni alla normativa regionale in materia istituzionale e modifiche alla legge regionale 20 febbraio 2017, n. 4 "Disposizioni regionali in materia di diritto allo studio" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-2` | L.R. 14 gennaio 2021, n. 2: Disposizioni urgenti in tema di economia ittica e sostegno alle imprese | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-3` | L.R. 14 gennaio 2021, n. 3: Modifiche alla legge regionale 13 maggio 2004, n. 11 "Norme in materia di pesca marittima e acquacoltura" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-4` | L.R. 1 marzo 2021, n. 4: Riconoscimento di Fabriano come Città della carta e della filigrana e di Ascoli Piceno e Pioraco come Città della carta | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-5` | L.R. 8 marzo 2021, n. 5: Modifiche alla legge regionale 6 agosto 2018, n. 33 "Disposizioni regionali per favorire la riduzione in mare e sulle spiagge dei rifiuti plastici" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-7` | L.R. 20 maggio 2021, n. 7: Rimborso delle spese a supporto delle cure oncologiche | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-8` | L.R. 20 maggio 2021, n. 8: Modifiche ed integrazioni alla legge regionale 26 giugno 2008, n. 15 "Disciplina del Consiglio regionale dell'economia e del lavoro (CREL)" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-9` | L.R. 11 giugno 2021, n. 9: Disposizioni relative agli operatori sociosanitari. Istituzione dell'elenco regionale degli operatori sociosanitari e degli enti accreditati per la formazione | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-10` | L.R. 11 giugno 2021, n. 10: Interventi regionali di promozione e sostegno dell'istituzione dei gruppi di autoconsumo collettivo da fonti rinnovabili e delle comunità energetiche rinnovabili | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-11` | L.R. 17 giugno 2021, n. 11: Modifiche e integrazioni alle leggi regionali 5 agosto 1992, n. 34 "Norme in materia urbanistica, paesaggistica e di assetto del territorio" e 20 aprile 2015, n. 17 "Riordino e semplificazione della normativa regionale in materia di edilizia" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-12` | L.R. 25 giugno 2021, n. 12: Proroga dei termini di disposizioni transitorie inerenti alla pesca dei molluschi bivalvi | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-13` | L.R. 25 giugno 2021, n. 13: Disposizioni urgenti in tema di commercio, di sostegno alle imprese, di erogazioni liberali e variazione al bilancio di previsione 2021/2023 a seguito dell'emergenza epidemiologica da COVID-19 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-15` | L.R. 8 luglio 2021, n. 15: Disposizioni in materia di tutela dei consumatori e degli utenti | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-16` | L.R. 15 luglio 2021, n. 16: Modifiche alla legge regionale 16 dicembre 2005, n. 36 (Riordino del sistema regionale delle politiche abitative) e alla legge regionale 27 dicembre 2006, n. 22 (Modificazioni ed integrazioni alla l.r. 16 dicembre 2005, n. 36: "Riordino del sistema regionale delle politiche abitative") | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-17` | L.R. 30 luglio 2021, n. 17: Istituzione dell'Itinerario ebraico marchigiano | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-18` | L.R. 30 luglio 2021, n. 18: Disposizioni di organizzazione e di ordinamento del personale della Giunta regionale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-19` | L.R. 2 agosto 2021, n. 19: Norme per la tutela, lo sviluppo e la promozione dell'artigianato marchigiano | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-20` | L.R. 5 agosto 2021, n. 20: Istituzione della Giornata regionale per il diritto al divertimento in sicurezza | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-21` | L.R. 5 agosto 2021, n. 21: Ratifica della variazione di bilancio adottata con d.g.r. n. 718 del 7 giugno 2021 dalla Giunta regionale in via d'urgenza ai sensi dell'articolo 109, comma 2 bis, del decreto legge 17 marzo 2020, n. 18 (Misure di potenziamento del Servizio sanitario nazionale e di sostegno economico per famiglie, lavoratori e imprese connesse all'emergenza epidemiologica da COVID-19) co | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-22` | L.R. 5 agosto 2021, n. 22: Disciplina dell'attività commerciale nella regione Marche | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-23` | L.R. 6 agosto 2021, n. 23: Istituzione del Servizio di psicologia scolastica | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-24` | L.R. 6 agosto 2021, n. 24: Disposizioni per la Società "Sviluppo Europa Marche s.r.l. (SVEM s.r.l.)" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-25` | L.R. 16 settembre 2021, n. 25: Modifiche ed integrazioni alla legge regionale 30 settembre 2016, n. 22 (Interventi di sostegno e di valorizzazione della cultura musicale, della tradizione e della produzione della fisarmonica) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-26` | L.R. 21 ottobre 2021, n. 26: Tutela e valorizzazione del saltarello tradizionale marchigiano | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-27` | L.R. 28 ottobre 2021, n. 27: Modifiche norme terzo settore: legge regionale 28 aprile 2004, n. 9 (Norme per la promozione, il riconoscimento e lo sviluppo delle associazioni di promozione sociale) e legge regionale 30 maggio 2012, n. 15 (Norme per la promozione e la disciplina del volontariato) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-28` | L.R. 11 novembre 2021, n. 28: Esercizio dell'attività enoturistica nelle Marche | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-29` | L.R. 22 novembre 2021, n. 29: Sostegno alle iniziative integrate di riqualificazione e valorizzazione dei borghi e dei centri storici delle Marche e promozione e sviluppo del turismo diffuso e sostenibile | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-30` | L.R. 23 novembre 2021, n. 30: Interventi di valorizzazione delle dimore, ville, castelli, complessi architettonici e del paesaggio, parchi e giardini di valore storico-culturale della regione | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-31` | L.R. 23 novembre 2021, n. 31: Modifiche alla legge regionale 3 aprile 2013, n. 5 (Norme in materia di raccolta e coltivazione dei tartufi e di valorizzazione del patrimonio tartufigeno) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-32` | L.R. 2 dicembre 2021, n. 32: Rendiconto generale della Regione per l'anno 2020 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-33` | L.R. 2 dicembre 2021, n. 33: Assestamento del bilancio 2021-2023 e modifiche normative | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-34` | L.R. 2 dicembre 2021, n. 34: Disposizioni di adeguamento della legislazione regionale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-35` | L.R. 13 dicembre 2021, n. 35: Istituzione dell'Agenzia per il turismo e l'internazionalizzazione delle Marche (ATIM). Modifiche alle leggi regionali 11 luglio 2006, n. 9 e 30 ottobre 2008, n. 30 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-36` | L.R. 14 dicembre 2021, n. 36: Modifiche alla legge regionale 20 aprile 2015, n. 19 (Norme in materia di esercizio e controllo degli impianti termici degli edifici) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-37` | L.R. 14 dicembre 2021, n. 37: Modifiche alla legge regionale 16 gennaio 1995, n. 10 (Norme sul riordinamento territoriale dei Comuni e delle Province nella Regione Marche) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-38` | L.R. 31 dicembre 2021, n. 38: Disposizioni per la formazione del bilancio 2022-2024 della Regione Marche (Legge di stabilità 2022) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-39` | L.R. 31 dicembre 2021, n. 39: Bilancio di previsione 2022-2024 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-1` | L.R. 10 gennaio 2022, n. 1: Misure urgenti di adeguamento della legislazione regionale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-3` | L.R. 14 febbraio 2022, n. 3: Modifiche alla legge regionale 18 dicembre 2017, n. 38 "Disposizioni in favore dei soggetti affetti da fibromialgia e da sensibilità chimica multipla" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-5` | L.R. 23 marzo 2022, n. 5: Disposizioni in materia di addizionale regionale all'IRPEF | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-6` | L.R. 23 marzo 2022, n. 6: Tutela, valorizzazione e promozione delle infiorate artistiche quale espressione del patrimonio culturale immateriale della Regione Marche | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-7` | L.R. 31 marzo 2022, n. 7: Ulteriori modifiche alla legge regionale 14 novembre 2011, n. 21 (Disposizioni regionali in materia di multifunzionalità dell'azienda agricola e diversificazione in agricoltura) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-8` | L.R. 27 aprile 2022, n. 8: Tutela e valorizzazione del cavallo del Catria | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-9` | L.R. 27 aprile 2022, n. 9: Promozione e disciplina degli Ecomusei | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-10` | L.R. 5 maggio 2022, n. 10: Modifiche alla legge regionale 2 aprile 2012, n. 5 (Disposizioni regionali in materia di sport e tempo libero) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-11` | L.R. 12 maggio 2022, n. 11: Trasformazione dell'ASSAM nell'Agenzia per l'innovazione nel settore agroalimentare e della pesca "Marche Agricoltura Pesca" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-12` | L.R. 19 maggio 2022, n. 12: Interventi a sostegno delle vittime del dovere e individuazione del Comune di Staffolo come riferimento regionale per la memoria delle vittime del terrorismo | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-13` | L.R. 16 giugno 2022, n. 13: Variazione generale al bilancio di previsione 2022/2024 ai sensi del comma 1 dell'articolo 51 del decreto legislativo 23 giugno 2011, n. 118 - (1° provvedimento) e modifiche normative | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-14` | L.R. 4 luglio 2022, n. 14: Modifiche ed integrazioni alla legge regionale 18 novembre 2019, n. 38 (Disposizioni in materia di equo compenso) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-15` | L.R. 4 luglio 2022, n. 15: Proroga dei termini di disposizioni transitorie inerenti alla pesca dei molluschi bivalvi | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-16` | L.R. 27 luglio 2022, n. 16: Modifiche alla legge regionale 4 giugno 1996, n. 18 (Promozione e coordinamento delle politiche di intervento in favore delle persone in condizione di disabilità) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-17` | L.R. 27 luglio 2022, n. 17: Modifiche ulteriori alla legge regionale 14 novembre 2011, n. 21 (Disposizioni regionali in materia di multifunzionalità dell'azienda agricola e diversificazione in agricoltura) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-19` | L.R. 8 agosto 2022, n. 19: Organizzazione del servizio sanitario regionale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-20` | L.R. 4 ottobre 2022, n. 20: Assestamento del bilancio 2022- 2024 e modifiche normative | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-21` | L.R. 6 ottobre 2022, n. 21: Modifiche alla legge regionale 22 novembre 2021, n. 29 (Sostegno alle iniziative integrate di riqualificazione e valorizzazione dei borghi e dei centri storici delle Marche e promozione e sviluppo del turismo diffuso e sostenibile) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-22` | L.R. 6 ottobre 2022, n. 22: Modifiche alla legge regionale 2 aprile 2012, n. 5 (Disposizioni regionali in materia di sport e tempo libero) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-23` | L.R. 6 ottobre 2022, n. 23: Celebrazioni dell'anniversario della Battaglia del Pian Perduto | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-24` | L.R. 27 ottobre 2022, n. 24: Modifiche alla legge regionale 10 aprile 2020, n. 13 (Misure urgenti per il sostegno alle attività produttive e al lavoro autonomo a seguito dell'emergenza epidemiologica COVID-19) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-25` | L.R. 1 dicembre 2022, n. 25: Rendiconto generale della Regione per l'anno 2021 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-27` | L.R. 2 dicembre 2022, n. 27: Ulteriori modifiche alla legge regionale 3 aprile 2013, n. 5 (Norme in materia di raccolta e coltivazione dei tartufi e di valorizzazione del patrimonio tartufigeno) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-29` | L.R. 30 dicembre 2022, n. 29: Modifiche alle leggi regionali 14 maggio 2012, n. 13 (Riordino degli Enti di gestione dei Parchi Naturali Regionali. Modifiche alla legge regionale 28 aprile 1994, n. 15 "Norme per l'istituzione e la gestione delle Aree Protette Naturali") e 7 febbraio 2019, n. 2 (Disposizioni per l'Ente parco regionale del Conero) e 2 settembre 1997, n. 57 (Istituzione del Parco natu | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-30` | L.R. 30 dicembre 2022, n. 30: Disposizioni urgenti in materia di sistema regionale di certificazione delle competenze e di formazione professionale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-31` | L.R. 30 dicembre 2022, n. 31: Disposizioni per la formazione del bilancio 2023-2025 della Regione Marche (Legge di stabilità 2023) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-32` | L.R. 30 dicembre 2022, n. 32: Bilancio di previsione 2023-2025 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-1` | L.R. 1 febbraio 2023, n. 1: Incentivi all'insediamento nei comuni del cratere marchigiano di personale dipendente del servizio sanitario | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-2` | L.R. 10 febbraio 2023, n. 2: Modifiche ed integrazioni alla legge regionale 19 novembre 2012, n. 33 (Disposizioni regionali in materia di apicoltura) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-3` | L.R. 23 febbraio 2023, n. 3: Modifiche alla legge regionale 28 luglio 2022, n. 18 (Disciplina per la raccolta e la commercializzazione dei funghi epigei spontanei) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-5` | L.R. 26 aprile 2023, n. 5: Modifica alla legge regionale 3 maggio 2018, n. 8 (Recepimento dello schema di regolamento edilizio tipo (RET) in attuazione dell'intesa di cui all'articolo 4, comma 1 sexies, del d.p.r. 6 giugno 2001, n. 380 "Testo unico delle disposizioni legislative e regolamentari in materia edilizia". Modifiche alle leggi regionali 20 aprile 2015, n. 17 "Riordino e semplificazione d | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-6` | L.R. 26 aprile 2023, n. 6: Modifica alla legge regionale 20 aprile 2015, n. 17 (Riordino e semplificazione della normativa regionale in materia di edilizia) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-7` | L.R. 25 maggio 2023, n. 7: Disposizioni concernenti l'assegnazione delle concessioni di grandi derivazioni idroelettriche ai sensi dell'articolo 12 del decreto legislativo 16 marzo 1999, n. 79 (Attuazione della direttiva 96/92/CE recante norme comuni per il mercato interno dell'energia elettrica) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-8` | L.R. 29 giugno 2023, n. 8: Disposizioni di adeguamento della legislazione regionale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-9` | L.R. 5 luglio 2023, n. 9: Modifiche alla legge regionale 11 luglio 2006, n. 9 (Testo unico delle norme regionali in materia di turismo) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-10` | L.R. 5 luglio 2023, n. 10: Esercizio dell'attività oleoturistica nelle Marche | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-11` | L.R. 20 luglio 2023, n. 11: Interventi regionali a tutela delle donne affette da endometriosi | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-12` | L.R. 20 luglio 2023, n. 12: Riconoscimento di debito fuori bilancio ai sensi della lettera e) del comma 1 dell'articolo 73 del decreto legislativo 23 giugno 2011, n. 118, come modificato dal decreto legislativo 10 agosto 2014, n. 126 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-13` | L.R. 27 luglio 2023, n. 13: Modifiche alla legge regionale 7 febbraio 2017, n. 3 (Norme per la prevenzione ed il trattamento del gioco d'azzardo patologico e della dipendenza da nuove tecnologie e social network) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-14` | L.R. 25 settembre 2023, n. 14: Istituzione del mese e della Giornata regionale dell'anziano | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-15` | L.R. 25 settembre 2023, n. 15: Ulteriori modifiche alla legge regionale 12 giugno 2007, n. 6 (Modifiche ed integrazioni alle leggi regionali 14 aprile 2004, n. 7, 5 agosto 1992, n. 34, 28 ottobre 1999, n. 28, 23 febbraio 2005, n. 16 e 17 maggio 1999, n. 10. Disposizioni in materia ambientale e rete natura 2000) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-16` | L.R. 26 ottobre 2023, n. 16: Assestamento del bilancio 2023-2025 e modifiche normative | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-17` | L.R. 6 novembre 2023, n. 17: Valorizzazione delle De.Co. (Denominazioni Comunali) e istituzione del Registro regionale dei Comuni con prodotti De.Co. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-18` | L.R. 9 novembre 2023, n. 18: Iscrizione dei senza dimora all'Anagrafe sanitaria regionale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-19` | L.R. 30 novembre 2023, n. 19: Norme della pianificazione per il governo del territorio | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-20` | L.R. 30 novembre 2023, n. 20: Disciplina del Sottosegretario alla Presidenza della Giunta regionale in attuazione dell'articolo 28 bis dello Statuto | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-21` | L.R. 30 novembre 2023, n. 21: Rendiconto generale della Regione per l'anno 2022 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-22` | L.R. 30 novembre 2023, n. 22: Variazione generale al bilancio di previsione 2023/2025 ai sensi del comma 1 dell'articolo 51 del decreto legislativo 23 giugno 2011, n. 118 - (1° provvedimento) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-23` | L.R. 7 dicembre 2023, n. 23: Iniziative finalizzate alla valorizzazione delle Marche come terra del benessere e della qualità della vita | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-24` | L.R. 13 dicembre 2023, n. 24: Ulteriori disposizioni di adeguamento della legislazione regionale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-25` | L.R. 28 dicembre 2023, n. 25: Disposizioni per la formazione del bilancio 2024/2026 della Regione Marche (Legge di stabilità 2024) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-26` | L.R. 28 dicembre 2023, n. 26: Bilancio di previsione 2024/2026 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-1` | L.R. 25 gennaio 2024, n. 1: Celebrazioni del V Centenario della nascita di Andrea Bacci (1524–2024) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-2` | L.R. 8 febbraio 2024, n. 2: Celebrazioni dell'illustre ordine dei Frati Cappuccini quale patrimonio religioso e culturale della regione Marche e del mondo in vista dei Cinquecento anni dalla nascita (1528–2028) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-3` | L.R. 28 febbraio 2024, n. 3: Norme per il sostegno dell'informazione locale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-4` | L.R. 21 marzo 2024, n. 4: Norme transitorie in materia di realizzazione di impianti fotovoltaici | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-5` | L.R. 27 marzo 2024, n. 5: Interventi per la valorizzazione della figura e dell'opera di Federico II di Svevia come testimonianza illustre delle Marche | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-6` | L.R. 27 marzo 2024, n. 6: Promozione e valorizzazione delle ricette e dei menù della cucina marchigiana | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-7` | L.R. 28 marzo 2024, n. 7: Modifiche alla legge regionale 30 giugno 2003, n. 14 (Riorganizzazione della struttura amministrativa del Consiglio Regionale) e abrogazione della legge regionale 28 dicembre 2010, n. 22 (Disposizioni regionali in materia di organizzazione e valutazione del personale, in adeguamento al decreto legislativo 27 ottobre 2009, n. 150, sull'ottimizzazione della produttività, l' | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-8` | L.R. 16 aprile 2024, n. 8: Riconoscimento della città di Filottrano come "Città marchigiana della sartoria artigianale" | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-9` | L.R. 16 aprile 2024, n. 9: Celebrazioni del Centenario della nascita di Sergio Anselmi (1924-2024) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-10` | L.R. 16 aprile 2024, n. 10: Celebrazioni del Centenario della nascita di Paolo Volponi (1924-2024) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-11` | L.R. 22 maggio 2024, n. 11: Modifiche della legge regionale 21 marzo 2024, n. 4 (Norme transitorie in materia di realizzazione di impianti fotovoltaici in attuazione degli articoli 9, terzo comma, 41, secondo comma, e 117, terzo comma, della Costituzione) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-12` | L.R. 24 giugno 2024, n. 12: Modifiche alla legge regionale 5 gennaio 1995, n. 7 (Norme per la protezione della fauna selvatica e per la tutela dell'equilibrio ambientale e disciplina dell'attività venatoria) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-13` | L.R. 25 giugno 2024, n. 13: Disposizioni in materia di proroga di termini | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-14` | L.R. 11 luglio 2024, n. 14: Interventi per la valorizzazione ed il sostegno dei carnevali storici | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-15` | L.R. 17 luglio 2024, n. 15: Interventi per promuovere l'internazionalizzazione delle Marche nell'ambito della strategia europea per la Macroregione Adriatico-Ionica | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-16` | L.R. 31 luglio 2024, n. 16: Variazione generale al bilancio di previsione 2024/2026 ai sensi del comma 1 dell'articolo 51 del decreto legislativo 23 giugno 2011, n. 118 - (1° provvedimento) e disposizioni normative | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-17` | L.R. 9 agosto 2024, n. 17: Modifica alla legge regionale 3 aprile 2013, n. 5 (Norme in materia di raccolta e coltivazione dei tartufi e di valorizzazione del patrimonio tartufigeno) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-18` | L.R. 6 novembre 2024, n. 18: Iscrizione per l'anno 2024 del fondo per il contributo alla finanza pubblica. Attuazione dell'articolo 1, comma 527-ter, della legge 30 dicembre 2023, n. 213 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-19` | L.R. 15 novembre 2024, n. 19: Rendiconto generale della Regione per l'anno 2023 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-20` | L.R. 28 novembre 2024, n. 20: Assestamento del bilancio 2024-2026 e modifiche normative | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-21` | L.R. 30 dicembre 2024, n. 21: Disposizioni per la formazione del bilancio 2025/2027 della Regione Marche (Legge di stabilità 2025) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-22` | L.R. 30 dicembre 2024, n. 22: Bilancio di previsione 2025/2027 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-1` | L.R. 13 marzo 2025, n. 1: Interventi a tutela dei soggetti affetti da malattia celiaca | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-2` | L.R. 13 marzo 2025, n. 2: Istituzione del registro regionale degli informatori scientifici del farmaco e del parafarmaco | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-3` | L.R. 31 marzo 2025, n. 3: Riconoscimento e valorizzazione delle associazioni Pro Loco delle Marche | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-4` | L.R. 17 aprile 2025, n. 4: Modifiche alla legge regionale 4 gennaio 2018, n. 1 (Nuove norme per le costruzioni in zone sismiche nella regione Marche) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-5` | L.R. 17 aprile 2025, n. 5: Istituzione del Comitato per il sostegno del credito e dei servizi bancari e finanziari di base nella regione Marche | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-6` | L.R. 8 maggio 2025, n. 6: Celebrazione dei quattrocento anni dalla nascita del pittore marchigiano Carlo Maratti | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-7` | L.R. 29 maggio 2025, n. 7: Sistema Marche di protezione civile | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-8` | L.R. 29 maggio 2025, n. 8: Interventi a sostegno della famiglia, della genitorialità e della natalità | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-9` | L.R. 29 maggio 2025, n. 9: Modifica alla legge regionale 12 agosto 1994, n. 33 (Medicina dello sport e tutela sanitaria delle attività sportive) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-10` | L.R. 16 giugno 2025, n. 10: Valorizzazione del titolo di dottorato di ricerca | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-11` | L.R. 16 giugno 2025, n. 11: Modifiche alle leggi regionali 16 dicembre 2004, n. 27 (Norme per l'elezione del Consiglio e del Presidente della Giunta regionale) e 2 luglio 2020, n. 24 (Modifiche alla legge regionale 16 dicembre 2004, n. 27. "Norme per l'elezione del Consiglio e del Presidente della Giunta regionale") | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-12` | L.R. 2 luglio 2025, n. 12: Modifiche alla legge regionale 13 marzo 1995, n. 23 (Disposizioni in materia di trattamento indennitario dei Consiglieri regionali) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-13` | L.R. 2 luglio 2025, n. 13: Modifiche ed integrazioni alla legge regionale 1 dicembre 1997, n. 71 (Norme per la disciplina delle attività estrattive) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-14` | L.R. 2 luglio 2025, n. 14: Disposizioni per la qualificazione delle imprese agromeccaniche nella regione Marche | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-15` | L.R. 9 luglio 2025, n. 15: Modifiche alla legge regionale 22 novembre 2010, n. 17 (Modifiche alla legge regionale 20 giugno 2003, n. 13 "Riorganizzazione del Servizio sanitario regionale") | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-16` | L.R. 24 luglio 2025, n. 16: Disposizioni in materia di trasporto di viaggiatori mediante noleggio di autobus con conducente | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-17` | L.R. 24 luglio 2025, n. 17: Modifiche alla legge regionale 22 aprile 2020, n. 14 (Incentivi per la rimozione e lo smaltimento di piccoli quantitativi di rifiuti contenenti amianto) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-18` | L.R. 24 luglio 2025, n. 18: Modifiche ulteriori alla legge regionale 14 novembre 2011, n. 21 (Disposizioni regionali in materia di multifunzionalità dell'azienda agricola e diversificazione in agricoltura) e disposizioni finanziarie urgenti in materia di agricoltura | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-19` | L.R. 1 agosto 2025, n. 19: Disposizioni in materia di politica industriale regionale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-20` | L.R. 1 agosto 2025, n. 20: Disposizioni urgenti in materia di formazione professionale per l'attuazione del Piano Nazionale di Ripresa e Resilienza (PNRR). Modifiche alla legge regionale 30 dicembre 2022, n. 30 (Disposizioni urgenti in materia di sistema regionale di certificazione delle competenze) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-21` | L.R. 1 agosto 2025, n. 21: Assestamento del bilancio 2025/2027 e modifiche normative | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-22` | L.R. 7 agosto 2025, n. 22: Interventi della Regione a sostegno del design e dell'ergonomia | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-23` | L.R. 7 agosto 2025, n. 23: Norme per il sostegno e la promozione del Terzo settore, dell'attivismo civico e dell'economia sociale nella regione Marche | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-25` | L.R. 30 dicembre 2025, n. 25: Disposizioni per la formazione del bilancio 2026/2028 della Regione Marche (Legge di stabilità 2026) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-26` | L.R. 30 dicembre 2025, n. 26: Bilancio di previsione 2026/2028 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-1` | L.R. 29 aprile 2026, n. 1: Modifiche alla legge regionale 30 novembre 2023, n. 19 (Norme della pianificazione per il governo del territorio) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-2` | L.R. 5 maggio 2026, n. 2: Modifiche alla legge regionale 5 gennaio 1995, n. 7 (Norme per la protezione della fauna selvatica e per la tutela dell'equilibrio ambientale e disciplina dell'attività venatoria) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-3` | L.R. 21 maggio 2026, n. 3: Modifiche alla legge regionale 12 ottobre 2009, n. 24 (Disciplina regionale in materia di gestione integrata dei rifiuti e bonifica dei siti inquinati) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-4` | L.R. 10 giugno 2026, n. 4: Modifiche alla legge regionale 22 ottobre 2001, n. 22 (Disciplina degli impianti di trasporto a fune in servizio pubblico, delle piste da sci e dei sistemi di innevamento programmato) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-5` | L.R. 22 giugno 2026, n. 5: Modifiche alla legge regionale 27 marzo 2001, n. 8 (Istituzione, organizzazione e funzionamento del Comitato regionale per le Comunicazioni (CORECOM)) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-6` | L.R. 22 giugno 2026, n. 6: Interventi per la conoscenza dei marchigiani illustri e la celebrazione dei relativi anniversari | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-7` | L.R. 24 giugno 2026, n. 7: Variazione generale al bilancio di previsione 2026/2028 ai sensi del comma 1 dell'articolo 51 del decreto legislativo 23 giugno 2011, n. 118 - (1° provvedimento) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-8` | L.R. 6 luglio 2026, n. 8: Modifica alla legge regionale 20 aprile 2015, n. 17 (Riordino e semplificazione della normativa regionale in materia di edilizia) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-9` | L.R. 27 luglio 2026, n. 9: Disposizioni per la valorizzazione e la riqualificazione dei centri storici, dei luoghi del commercio di particolare interesse e delle attività economiche che concorrono alla salvaguardia delle caratteristiche storico-culturali dei luoghi | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-10` | L.R. 10 agosto 2026, n. 10: Modifiche alla legge regionale 28 luglio 2022, n. 18 (Disciplina per la raccolta e la commercializzazione dei funghi epigei spontanei) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-11` | L.R. 10 agosto 2026, n. 11: Realizzazione di tettoie in zone agricole per il deposito di prodotti derivanti dall'esercizio dei diritti di uso civico e delle relative attrezzature | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-12` | L.R. 29 settembre 2026, n. 12: Disposizioni di semplificazione e aggiornamento della normativa regionale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-13` | L.R. 1 ottobre 2026, n. 13: Riconoscimento della giusta remunerazione non inferiore ai costi di produzione agricoli e zootecnici | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-14` | L.R. 8 ottobre 2026, n. 14: Rendiconto generale della Regione per l'anno 2025 | 1 | 2026-11-02 to 2026-11-02 |
 
-The build made 783 commits:
+The build made 1180 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 783 | first version of an act |
+| 1180 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-10-30.
+- 394 commits on the branch `futuro`: laws not yet in force on 2026-10-30.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 783 laws in the record.
-- 783 tags.
+- 1180 laws in the record.
+- 1180 tags.
 
 ## Dates
 
@@ -832,13 +1242,13 @@ When a law gives no date of its own, the default rule applies: Statuto della Reg
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `238273190cb87e28604bf758ff894842c3039bd77b2960ef7f7569f3722a94bd` (10006496 bytes).
+- Corpus: sha256 `e38d9a7b34af503f386a6331377867c9bc84667f8c565cfaaaf5973d02d603d2` (14406832 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-783 versions of 783 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+1180 versions of 1180 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 

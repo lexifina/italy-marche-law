@@ -5,7 +5,7 @@
   "level": "region",
   "parent": "it",
   "repo": "https://github.com/lexifina/italy-marche-law",
-  "build": "built: statute and regional laws (783 acts, 783 versions) from the Consiglio regionale delle Marche's law database (current text only)",
+  "build": "built: statute and regional laws (1180 acts, 1180 versions) from the Consiglio regionale delle Marche's law database (current text only)",
   "language": "it",
   "sources": 1
 }
