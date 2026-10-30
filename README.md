@@ -8,7 +8,7 @@ The text is in Italian, exactly as the source prints it.
 
 ## What this repository holds
 
-699 acts with 699 versions so far: the Statute (Statuto regionale) first, then the regional laws in force, added in parts of about fifty. Regulations and the amending statutory laws are not included.
+783 acts with 783 versions so far: the Statute (Statuto regionale) first, then the regional laws in force, added in parts of about fifty. Regulations and the amending statutory laws are not included.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -711,6 +711,93 @@ The text is in Italian, exactly as the source prints it.
 | `lr-2011-30/` | L.R. 28 dicembre 2011, n. 30: Disposizioni in materia di risorse idriche e di servizio idrico integrato | 1 | oldest version available: 30 October 2026 |
 | `lr-2012-1/` | L.R. 19 gennaio 2012, n. 1: Modifiche alla Legge regionale 31 ottobre 2011, n. 20 "Assestamento di Bilancio 2011" | 1 | oldest version available: 30 October 2026 |
 | `lr-2012-2/` | L.R. 20 marzo 2012, n. 2: Abrogazione dell'articolo 10 della Legge regionale 31 ottobre 2011, n. 20: "Assestamento di bilancio 2011" e modifica dell'articolo 27 | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-4/` | L.R. 26 marzo 2012, n. 4: Modifiche alle Leggi regionali: 12 ottobre 2009, n. 24: "Disciplina regionale in materia di gestione integrata dei rifiuti e bonifica | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-5/` | L.R. 2 aprile 2012, n. 5: Disposizioni regionali in materia di sport e tempo libero | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-6/` | L.R. 10 aprile 2012, n. 6: Osservatorio Epidemiologico Regionale. Registri regionali delle cause di morte e di patologia | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-7/` | L.R. 10 aprile 2012, n. 7: Ulteriori modifiche alla Legge Regionale 5 gennaio 1995, n. 7: "Norme per la protezione della fauna selvatica e per la tutela dell'eq | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-8/` | L.R. 20 aprile 2012, n. 8: Attività della Regione Marche per l'affermazione dei valori del ricordo del martirio e dell'esodo Giuliano-Dalmata-Istriano | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-9/` | L.R. 20 aprile 2012, n. 9: Modifiche alle Leggi regionali: 20 gennaio 1997, N. 15: "Disciplina del tributo speciale per il deposito in discarica dei rifiuti sol | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-10/` | L.R. 20 aprile 2012, n. 10: Ulteriori modifiche alla Legge Regionale 23 febbraio 2005, n. 8 "Norme in materia di accertamento della regolarità contributiva dell | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-11/` | L.R. 2 maggio 2012, n. 11: Disciplina dei Distretti Rurali e dei Distretti Agroalimentari di qualità | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-12/` | L.R. 14 maggio 2012, n. 12: Istituzione della Stazione Unica Appaltante della Regione Marche (SUAM) | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-13/` | L.R. 14 maggio 2012, n. 13: Riordino degli Enti di gestione dei Parchi Naturali Regionali. Modifiche alla Legge regionale 28 aprile 1994, n. 15 "Norme per l'ist | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-14/` | L.R. 17 maggio 2012, n. 14: Modifica alla Legge regionale 25 gennaio 2005, n. 2 "Norme regionali per l'occupazione, la tutela e la qualità del lavoro" | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-16/` | L.R. 30 maggio 2012, n. 16: Offensiva sulla linea gotica estate-autunno 1944: valorizzazione dei documenti e dei luoghi | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-17/` | L.R. 30 maggio 2012, n. 17: Modifica alla legge regionale 15 ottobre 2001 n. 20 "Norme in materia di organizzazione e di personale della regione" | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-18/` | L.R. 4 giugno 2012, n. 18: Istituzione dell'ente regionale per l'abitazione pubblica delle Marche (ERAP Marche). Soppressione degli enti regionali per l'abitazi | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-20/` | L.R. 4 giugno 2012, n. 20: Modifiche alla legge regionale 23 febbraio 2005, n. 6: "Legge forestale regionale" | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-21/` | L.R. 11 giugno 2012, n. 21: Modifiche ed integrazioni alla legge regionale 22 ottobre 2001, n. 22: "Disciplina degli impianti di trasporto a fune in servizio pu | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-22/` | L.R. 29 giugno 2012, n. 22: Disposizioni per il personale dei consorzi di sviluppo industriale e modifica della legge regionale 15 novembre 2010, n. 16: "Assest | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-23/` | L.R. 23 luglio 2012, n. 23: Integrazione delle politiche di pari opportunità di genere nella Regione. Modifiche alla Legge regionale 5 agosto 1996, n. 34 "Norme | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-24/` | L.R. 23 luglio 2012, n. 24: Scadenza del consiglio di indirizzo e verifica
+dell'istituto di ricovero e cura a carattere scientifico "INRCA" di Ancona. | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-26/` | L.R. 1 agosto 2012, n. 26: Misure urgenti in materia di contenimento della spesa | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-27/` | L.R. 1 agosto 2012, n. 27: Ulteriori modifiche alla Legge regionale 5 gennaio 1995, n. 7: "Norme per la protezione della fauna selvatica e per la tutela dell'eq | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-30/` | L.R. 19 ottobre 2012, n. 30: Individuazione delle aree non idonee all'installazione di impianti alimentati da biomasse o biogas e modifiche alla legge regionale | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-31/` | L.R. 12 novembre 2012, n. 31: Norme in materia di gestione dei corsi d'acqua | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-32/` | L.R. 19 novembre 2012, n. 32: Interventi in favore delle persone con disturbi specifici di apprendimento (DSA) | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-34/` | L.R. 26 novembre 2012, n. 34: Interventi per la valorizzazione del pensiero e dell'opera di Maria Montessori | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-35/` | L.R. 26 novembre 2012, n. 35: Disposizioni in materia di microzonazione sismica | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-38/` | L.R. 3 dicembre 2012, n. 38: Interventi per favorire lo sviluppo della mobilità ciclistica | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-41/` | L.R. 17 dicembre 2012, n. 41: Norme per la pubblicità e la trasparenza della situazione patrimoniale dei componenti gli organi della regione e dei titolari di c | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-42/` | L.R. 21 dicembre 2012, n. 42: Modifiche alla Legge regionale 13 marzo 1995, n. 23 "Disposizioni in materia di trattamento indennitario dei Consiglieri regionali | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-43/` | L.R. 21 dicembre 2012, n. 43: Modifiche alla legge regionale 10 agosto 1988, n. 34 "Finanziamento dell'attività dei gruppi consiliari" in attuazione del Decreto | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-44/` | L.R. 21 dicembre 2012, n. 44: Individuazione del limite demografico minimo delle Unioni dei Comuni e modifica alla Legge regionale 1° luglio 2008, n. 18 
+"Norm | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-45/` | L.R. 27 dicembre 2012, n. 45: Disposizioni per la formazione del Bilancio annuale 2013 e pluriennale 2013/2015 della Regione (Legge Finanziaria 2013) | 1 | oldest version available: 30 October 2026 |
+| `lr-2012-46/` | L.R. 27 dicembre 2012, n. 46: Bilancio di previsione per l'anno 2013 ed adozione del Bilancio Pluriennale per il triennio 2013/2015 | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-2/` | L.R. 5 febbraio 2013, n. 2: Norme in materia di rete ecologica delle Marche e di tutela del paesaggio e modifiche alla Legge Regionale 15 novembre 2010, n. 16 " | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-4/` | L.R. 8 febbraio 2013, n. 4: Modifiche alla Legge Regionale 5 aprile 1980, n. 18 "Norme sui referendum previsti dallo statuto" | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-5/` | L.R. 3 aprile 2013, n. 5: Norme in materia di raccolta e coltivazione dei tartufi e di valorizzazione del patrimonio tartufigeno | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-7/` | L.R. 30 aprile 2013, n. 7: Costituzione della società pubblica di progetto per la realizzazione della strada di grande comunicazione Fano-Grosseto | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-10/` | L.R. 10 maggio 2013, n. 10: Disposizioni di semplificazione e adeguamento della normativa regionale | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-12/` | L.R. 6 giugno 2013, n. 12: Disposizioni particolari per il sostegno dell'attività edilizia | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-13/` | L.R. 17 giugno 2013, n. 13: Riordino degli interventi in materia di Bonifica e di Irrigazione. Costituzione del Consorzio di Bonifica delle Marche e fusione dei | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-17/` | L.R. 9 luglio 2013, n. 17: Modifiche alla legge regionale 30 ottobre 1998, n. 36 "Sistema di Emergenza Sanitaria" | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-18/` | L.R. 22 luglio 2013, n. 18: Istituzione di un nuovo Comune mediante fusione dei Comuni di Castel Colonna, Monterado e Ripe, ai sensi dell'articolo 2, comma 1, l | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-20/` | L.R. 29 luglio 2013, n. 20: Disposizioni relative al pagamento dei debiti della Regione certi, liquidi ed esigibili, diversi da quelli finanziari e sanitari, ma | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-21/` | L.R. 29 luglio 2013, n. 21: Ulteriori modifiche alle Leggi Regionali 20 gennaio 1997, n. 15 "Disciplina del Tributo Speciale per il deposito in discarica dei ri | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-22/` | L.R. 29 luglio 2013, n. 22: Modifiche alla Legge Regionale 5 aprile 1980, n. 18 "Norme sui Referendum previsti dallo Statuto" e alla Legge Regionale 16 gennaio | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-23/` | L.R. 2 agosto 2013, n. 23: Modifiche alla Legge Regionale 28 Aprile 1994, N. 15: "Norme per l'Istituzione e Gestione delle Aree Protette Naturali" e alla Legge | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-25/` | L.R. 2 agosto 2013, n. 25: Modifiche alla Legge Regionale 5 Gennaio 1995, N. 7 "Norme per la Protezione della Fauna Selvatica e per la tutela dell'equilibrio am | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-26/` | L.R. 2 agosto 2013, n. 26: Disposizioni per gli Enti del Servizio Sanitario Regionale | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-27/` | L.R. 2 agosto 2013, n. 27: Approvazione dell'intesa tra le Regioni Emilia-Romagna e Marche concernente l'istituzione del Parco Interregionale del Sasso Simone e | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-29/` | L.R. 16 settembre 2013, n. 29: Riconoscimento della particolare specificità dell'attività multidisciplinare svolta dalla Lega del Filo d'Oro | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-30/` | L.R. 30 settembre 2013, n. 30: "Limes" - Territori di confine - Proposte e progetti condivisi e cofinanziati per lo sviluppo e l'integrazione delle aree di conf | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-33/` | L.R. 14 ottobre 2013, n. 33: Misure organizzative per il contenimento della spesa. Modifica delle leggi regionali 15 ottobre 2001, n. 20 "Norme in materia di or | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-35/` | L.R. 11 novembre 2013, n. 35: Norme in materia di Unioni montane e di esercizio associato delle funzioni dei Comuni montani | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-38/` | L.R. 18 novembre 2013, n. 38: Disciplina dell'attività di tatuaggio e piercing. | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-39/` | L.R. 18 novembre 2013, n. 39: Modifiche alla legge regionale 4 aprile 2011, n. 5 "Interventi regionali per il sostegno e la promozione di osterie, locande, tave | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-40/` | L.R. 25 novembre 2013, n. 40: Approvazione dell'intesa tra la Regione Umbria e la Regione Marche concernente il riordino dell'Istituto zooprofilattico speriment | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-41/` | L.R. 25 novembre 2013, n. 41: Interventi per il sostegno delle azioni di prevenzione della produzione dei rifiuti solidi urbani e modifica alla legge regionale | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-42/` | L.R. 25 novembre 2013, n. 42: Modifica alle leggi regionali 28 dicembre 2011, n. 28 "Disposizioni per la formazione del bilancio annuale 2012 e 
+pluriennale 20 | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-43/` | L.R. 25 novembre 2013, n. 43: Modalità di esercizio delle medicine complementari. | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-44/` | L.R. 29 novembre 2013, n. 44: Assestamento di bilancio 2013 | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-45/` | L.R. 9 dicembre 2013, n. 45: Modifiche al Titolo VI della legge regionale 10 novembre 2009, n. 27 "Testo unico in materia di commercio" concernente il sistema f | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-46/` | L.R. 9 dicembre 2013, n. 46: Disposizioni finalizzate ad incentivare l'integrazione istituzionale e territoriale | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-47/` | L.R. 13 dicembre 2013, n. 47: Istituzione di un nuovo Comune mediante fusione dei Comuni di Colbordolo e Sant'Angelo in Lizzola, ai sensi dell'articolo 2, comma | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-48/` | L.R. 16 dicembre 2013, n. 48: Disposizioni in materia di manutenzione dei corsi d''acqua | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-49/` | L.R. 23 dicembre 2013, n. 49: Disposizioni per la formazione del bilancio annuale 2014 e pluriennale 2014/2016 della Regione (Legge finanziaria 2014) | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-50/` | L.R. 23 dicembre 2013, n. 50: Bilancio di previsione per l'anno 2014 ed adozione del bilancio pluriennale per il triennio 2014/2016 | 1 | oldest version available: 30 October 2026 |
+| `lr-2013-51/` | L.R. 23 dicembre 2013, n. 51: Modifiche alla legge regionale 5 gennaio 1995, n. 7 "Norme per la protezione della fauna selvatica e per la tutela dell'equilibrio | 1 | oldest version available: 30 October 2026 |
+| `lr-2014-1/` | L.R. 17 febbraio 2014, n. 1: Disciplina in materia di ordinamento della polizia locale | 1 | oldest version available: 30 October 2026 |
+| `lr-2014-2/` | L.R. 24 febbraio 2014, n. 2: Sistema regionale per la difesa dall'inquinamento di idrocarburi o altre sostanze nocive causato da incidenti marini | 1 | oldest version available: 30 October 2026 |
+| `lr-2014-4/` | L.R. 21 marzo 2014, n. 4: Interventi a favore della sicurezza stradale | 1 | oldest version available: 30 October 2026 |
+| `lr-2014-5/` | L.R. 14 aprile 2014, n. 5: Modifiche alla legge regionale 11 novembre 2013, n. 35 "Norme in materia di Unioni montane e di esercizio associato delle funzioni de | 1 | oldest version available: 30 October 2026 |
+| `lr-2014-7/` | L.R. 22 aprile 2014, n. 7: Norme sulle misure di prevenzione e protezione dai rischi di caduta dall'alto da predisporre negli edifici per l'esecuzione dei lavor | 1 | oldest version available: 30 October 2026 |
+| `lr-2014-8/` | L.R. 22 aprile 2014, n. 8: Modifiche alla legge regionale 3 dicembre 2012, n. 40: "Istituzione del Collegio dei Revisori dei Conti della Regione Marche" | 1 | oldest version available: 30 October 2026 |
+| `lr-2014-9/` | L.R. 6 maggio 2014, n. 9: Modifiche alla legge regionale 11 luglio 2006, n. 9 "Testo unico delle norme regionali in materia di turismo" e alla legge regionale 2 | 1 | oldest version available: 30 October 2026 |
+| `lr-2014-10/` | L.R. 15 maggio 2014, n. 10: Modifica alla legge regionale 11 novembre 2013, n. 36 "Disciplina del controllo sugli atti degli enti del servizio sanitario regiona | 1 | oldest version available: 30 October 2026 |
+| `lr-2014-11/` | L.R. 30 maggio 2014, n. 11: Modifica alla Legge Regionale 3 Aprile 2002, n. 5: "Integrazione della Legge Regionale 26 dicembre 1983, n. 41 sulle provvidenze in | 1 | oldest version available: 30 October 2026 |
+| `lr-2014-12/` | L.R. 16 giugno 2014, n. 12: Norme per la tutela e la valorizzazione della produzione orto-floro-frutticola e delle piante ornamentali | 1 | oldest version available: 30 October 2026 |
+| `lr-2014-13/` | L.R. 16 giugno 2014, n. 13: Contributi ai Comuni per il mantenimento degli uffici del giudice di pace | 1 | oldest version available: 30 October 2026 |
+| `lr-2014-14/` | L.R. 16 giugno 2014, n. 14: Misure di contenimento della spesa di personale in attuazione del decreto legge 31 maggio 2010 n. 78 convertito, con modificazioni, | 1 | oldest version available: 30 October 2026 |
+| `lr-2014-15/` | L.R. 23 giugno 2014, n. 15: Distacco della frazione di Marotta dal Comune di Fano e incorporazione nel Comune di Mondolfo. Mutamento delle rispettive circoscriz | 1 | oldest version available: 30 October 2026 |
+| `lr-2014-18/` | L.R. 10 luglio 2014, n. 18: Disposizioni in materia di terapie complementari: terapia del sorriso e pet therapy | 1 | oldest version available: 30 October 2026 |
+| `lr-2014-19/` | L.R. 28 luglio 2014, n. 19: Modifiche alla legge regionale 10 agosto 1988, n. 34 "Finanziamento delle attività dei gruppi consiliari" | 1 | oldest version available: 30 October 2026 |
+| `lr-2014-20/` | L.R. 4 agosto 2014, n. 20: Disposizioni per l'attuazione degli articoli 14, comma 1, lettere b) e f), e 47 del decreto legislativo 14 marzo 2013, n. 33 "Riordin | 1 | oldest version available: 30 October 2026 |
+| `lr-2014-21/` | L.R. 4 agosto 2014, n. 21: Approvazione delle modifiche all'intesa tra la Regione Umbria e la Regione Marche concernente il riordino dell'Istituto zooprofilatti | 1 | oldest version available: 30 October 2026 |
 
 ## Source
 
