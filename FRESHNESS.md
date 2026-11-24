@@ -8,7 +8,7 @@ Come global-law misura quanto è aggiornato ogni paese: [global-law FRESHNESS.md
 
 ### Consiglio regionale delle Marche, Banca dati delle leggi e dei regolamenti regionali · `italy/marche/acts`
 
-- Ultima lettura della fonte ufficiale, con ogni atto presente qui confrontato con essa: **2026-11-24 00:32 UTC**.
+- Ultima lettura della fonte ufficiale, con ogni atto presente qui confrontato con essa: **2026-11-24 00:37 UTC**.
 - Atti presenti qui: 1 180; aggiornati rispetto alla fonte: 1 180; modificati alla fonte dopo la versione presente qui: 0; non più presenti alla fonte: 0.
 - Confrontati con la fonte in questa lettura: 40 dei 1 180 atti presenti qui; gli altri non sono stati confrontati in questa lettura (vedi la nota del controllo).
 - Non pubblicati: 23 (trattenuto da un controllo: 23); senza motivo: 0.

@@ -8,7 +8,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Consiglio regionale delle Marche, Banca dati delle leggi e dei regolamenti regionali · `italy/marche/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 00:32 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-24 00:37 UTC**.
 - Acts held here: 1 180; current at the source: 1 180; changed at the source since the version held here: 0; no longer at the source: 0.
 - Compared with the source in this read: 40 of the 1 180 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 23 (held by a check: 23); with no reason: 0.

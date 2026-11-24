@@ -1,60 +1,58 @@
 {
- "generated": "2026-11-24T00:32:16Z",
+ "generated": "2026-11-24T00:37:01Z",
  "latest": {
   "consiglio-marche|italy/marche/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": {
-    "match_neither": 1,
+    "match_neither": 0,
     "match_new": 4,
     "match_old": 0,
-    "method": "read again in the database's other archive, the text as first published (dettaglio.php?arc=sto; the check reads the archive of texts in force), parsed by the builder's units_of: every article the archive of texts in force does not annotate (no editor's note: unchanged since enactment and amending no other law) must be identical; annotated articles are left out",
+    "method": "read again in the database's other archive, the text as first published (dettaglio.php?arc=sto; the check reads the archive of texts in force), parsed by the builder's units_of: every article the archive of texts in force does not annotate (no editor's note: unchanged since enactment and amending no other law) must have the same letters and digits (the two archives differ in some punctuation, e.g. a closing period); annotated articles are left out",
     "rows": [
      {
-      "compared_units": 2,
-      "id": "lr-1995-39",
+      "compared_units": 1,
+      "id": "lr-1976-6",
       "left_out_units": 0,
       "published": false,
-      "read": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=sto&idl=1070",
+      "read": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=sto&idl=159",
       "verdict": "match_new"
      },
      {
-      "compared_units": 2,
-      "id": "lr-2018-7",
+      "compared_units": 0,
+      "id": "lr-1992-34",
+      "left_out_units": 78,
+      "published": false,
+      "read": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=sto&idl=917",
+      "verdict": "unread",
+      "why": "every article is annotated (changed since enactment, or amending another law)"
+     },
+     {
+      "compared_units": 33,
+      "id": "lr-1999-32",
+      "left_out_units": 13,
+      "published": false,
+      "read": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=sto&idl=1298",
+      "verdict": "match_new"
+     },
+     {
+      "compared_units": 5,
+      "id": "lr-1998-37",
       "left_out_units": 0,
       "published": false,
-      "read": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=sto&idl=2005",
+      "read": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=sto&idl=282",
       "verdict": "match_new"
      },
      {
-      "compared_units": 1,
-      "id": "lr-2024-12",
-      "left_out_units": 37,
-      "published": false,
-      "read": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=sto&idl=2317",
-      "verdict": "match_new"
-     },
-     {
-      "compared_units": 1,
-      "differ": [
-       "art-003"
-      ],
-      "id": "lr-2018-40",
+      "compared_units": 4,
+      "id": "lr-2022-8",
       "left_out_units": 2,
       "published": false,
-      "read": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=sto&idl=2066",
-      "verdict": "match_neither"
-     },
-     {
-      "compared_units": 12,
-      "id": "lr-1990-13",
-      "left_out_units": 4,
-      "published": false,
-      "read": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=sto&idl=790",
+      "read": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/dettaglio.php?arc=sto&idl=2245",
       "verdict": "match_new"
      }
     ],
     "sampled": 5,
-    "unread": 0
+    "unread": 1
    },
    "census": {
     "checked": 40,
@@ -67,19 +65,14 @@
     "repo": 1180,
     "source_in_scope": 1203
    },
-   "check_id": "it-consiglio-marche-20261124T002945Z",
+   "check_id": "it-consiglio-marche-20261124T003430Z",
    "commits": null,
    "corpus": "italy/marche/acts",
    "error": null,
-   "finished": "2026-11-24T00:32:15Z",
-   "flags": [
-    {
-     "detail": "1 of 5 read again by a second route disagree",
-     "flag": "audit-disagrees"
-    }
-   ],
+   "finished": "2026-11-24T00:37:00Z",
+   "flags": [],
    "gap": 23,
-   "note": "first check: the baseline (nothing to compare with); index years read: 2 of 56 (this year and last daily, the others every 30 days); 1202 laws in the archive of texts in force, 1179 held + the Statute; 0 listed pages with no article (the builder leaves them out) are out of scope and not listed; 0 unheld law pages read; compared with the source: 40 held acts (today's 1/30 of the sweep, 0 amended by a recent law, 0 no longer listed)",
+   "note": "index years read: 2 of 56 (this year and last daily, the others every 30 days); 1202 laws in the archive of texts in force, 1179 held + the Statute; 0 listed pages with no article (the builder leaves them out) are out of scope and not listed; 0 unheld law pages read; compared with the source: 40 held acts (today's 1/30 of the sweep, 0 amended by a recent law, 0 no longer listed)",
    "outcome": "no-change",
    "published": {
     "added": [],
@@ -96,7 +89,7 @@
    },
    "snapshot": null,
    "source": "consiglio-marche",
-   "started": "2026-11-24T00:29:45Z",
+   "started": "2026-11-24T00:34:30Z",
    "unexplained": 0,
    "update": {},
    "verify": {
