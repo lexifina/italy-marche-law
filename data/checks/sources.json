@@ -1,0 +1,36 @@
+{
+ "sources": [
+  {
+   "id": "consiglio-marche",
+   "kind": "legislation",
+   "name": {
+    "en": "Consiglio regionale delle Marche, Banca dati delle leggi e dei regolamenti regionali",
+    "it": "Consiglio regionale delle Marche, Banca dati delle leggi e dei regolamenti regionali"
+   },
+   "url": "https://www.consiglio.marche.it/banche_dati_e_documentazione/leggi/",
+   "reads": {
+    "en": "the chronological index of the archive of texts in force (this year and last every day, the others at least every 30 days), the page of each law listed but not held here, and the text in force of a thirtieth of the held laws a day and of the laws a new law amends",
+    "it": "l'indice cronologico dell'archivio dei testi vigenti (quest'anno e l'anno scorso ogni giorno, gli altri almeno ogni 30 giorni), la pagina di ogni legge elencata ma non presente qui e il testo vigente di un trentesimo delle leggi presenti qui ogni giorno e delle leggi che una nuova legge modifica"
+   },
+   "folders": [
+    "lr/",
+    "statuto/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "italy/marche/acts"
+   ],
+   "interval": 3.2,
+   "allow": [
+    "lr/",
+    "statuto/",
+    "data/paths.json"
+   ],
+   "note": {
+    "en": "current text only, as the repository is built: a changed text is a new version dated the day it was read, credited to the database as publisher; regulations and the statutory laws amending the Statute are not included",
+    "it": "solo testo vigente, come il repository è costruito: un testo modificato è una nuova versione datata il giorno della lettura, attribuita alla banca dati come editore; regolamenti e leggi statutarie di modifica dello Statuto non sono inclusi"
+   }
+  }
+ ]
+}

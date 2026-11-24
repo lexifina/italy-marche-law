@@ -1,0 +1,25 @@
+{
+ "schema": "lexifina-trail-freshness/1",
+ "as_of": "2026-11-24",
+ "note": "How current this repository is, from its check trail (data/checks/): the day each official source was last read with every act held here checked against it. tools/checktrail.py reads the trail.",
+ "checked_against_official_source": "2026-11-24",
+ "totals": {
+  "acts": 1180,
+  "by_status": {
+   "current": 40,
+   "pending-change": 0,
+   "stale": 0,
+   "unverified": 1140,
+   "source-unavailable": 0
+  }
+ },
+ "sources": [
+  {
+   "source": "consiglio-marche",
+   "name": "Consiglio regionale delle Marche, Banca dati delle leggi e dei regolamenti regionali",
+   "state": "available",
+   "last_successful_check": "2026-11-24",
+   "last_successful_contact": "2026-11-24"
+  }
+ ]
+}
